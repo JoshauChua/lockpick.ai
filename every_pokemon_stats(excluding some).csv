@@ -1,0 +1,1298 @@
+Name,type,abilitie(s),HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Weight (Kg),Height (m)
+bulbasaur,"grass, poison","overgrow, chlorophyll",45,49,49,65,65,45,69,0.7
+ivysaur,"grass, poison","overgrow, chlorophyll",60,62,63,80,80,60,130,1.0
+venusaur,"grass, poison","overgrow, chlorophyll",80,82,83,100,100,80,1000,2.0
+charmander,fire,"blaze, solar-power",39,52,43,60,50,65,85,0.6
+charmeleon,fire,"blaze, solar-power",58,64,58,80,65,80,190,1.1
+charizard,"fire, flying","blaze, solar-power",78,84,78,109,85,100,905,1.7
+squirtle,water,"torrent, rain-dish",44,48,65,50,64,43,90,0.5
+wartortle,water,"torrent, rain-dish",59,63,80,65,80,58,225,1.0
+blastoise,water,"torrent, rain-dish",79,83,100,85,105,78,855,1.6
+caterpie,bug,"shield-dust, run-away",45,30,35,20,20,45,29,0.3
+metapod,bug,shed-skin,50,20,55,25,25,30,99,0.7
+butterfree,"bug, flying","compound-eyes, tinted-lens",60,45,50,90,80,70,320,1.1
+weedle,"bug, poison","shield-dust, run-away",40,35,30,20,20,50,32,0.3
+kakuna,"bug, poison",shed-skin,45,25,50,25,25,35,100,0.6
+beedrill,"bug, poison","swarm, sniper",65,90,40,45,80,75,295,1.0
+pidgey,"normal, flying","keen-eye, tangled-feet, big-pecks",40,45,40,35,35,56,18,0.3
+pidgeotto,"normal, flying","keen-eye, tangled-feet, big-pecks",63,60,55,50,50,71,300,1.1
+pidgeot,"normal, flying","keen-eye, tangled-feet, big-pecks",83,80,75,70,70,101,395,1.5
+rattata,normal,"run-away, guts, hustle",30,56,35,25,35,72,35,0.3
+raticate,normal,"run-away, guts, hustle",55,81,60,50,70,97,185,0.7
+spearow,"normal, flying","keen-eye, sniper",40,60,30,31,31,70,20,0.3
+fearow,"normal, flying","keen-eye, sniper",65,90,65,61,61,100,380,1.2
+ekans,poison,"intimidate, shed-skin, unnerve",35,60,44,40,54,55,69,2.0
+arbok,poison,"intimidate, shed-skin, unnerve",60,95,69,65,79,80,650,3.5
+pikachu,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+raichu,electric,"static, lightning-rod",60,90,55,90,80,110,300,0.8
+sandshrew,ground,"sand-veil, sand-rush",50,75,85,20,30,40,120,0.6
+sandslash,ground,"sand-veil, sand-rush",75,100,110,45,55,65,295,1.0
+nidoran-f,poison,"poison-point, rivalry, hustle",55,47,52,40,40,41,70,0.4
+nidorina,poison,"poison-point, rivalry, hustle",70,62,67,55,55,56,200,0.8
+nidoqueen,"poison, ground","poison-point, rivalry, sheer-force",90,92,87,75,85,76,600,1.3
+nidoran-m,poison,"poison-point, rivalry, hustle",46,57,40,40,40,50,90,0.5
+nidorino,poison,"poison-point, rivalry, hustle",61,72,57,55,55,65,195,0.9
+nidoking,"poison, ground","poison-point, rivalry, sheer-force",81,102,77,85,75,85,620,1.4
+clefairy,fairy,"cute-charm, magic-guard, friend-guard",70,45,48,60,65,35,75,0.6
+clefable,fairy,"cute-charm, magic-guard, unaware",95,70,73,95,90,60,400,1.3
+vulpix,fire,"flash-fire, drought",38,41,40,50,65,65,99,0.6
+ninetales,fire,"flash-fire, drought",73,76,75,81,100,100,199,1.1
+jigglypuff,"normal, fairy","cute-charm, competitive, friend-guard",115,45,20,45,25,20,55,0.5
+wigglytuff,"normal, fairy","cute-charm, competitive, frisk",140,70,45,85,50,45,120,1.0
+zubat,"poison, flying","inner-focus, infiltrator",40,45,35,30,40,55,75,0.8
+golbat,"poison, flying","inner-focus, infiltrator",75,80,70,65,75,90,550,1.6
+oddish,"grass, poison","chlorophyll, run-away",45,50,55,75,65,30,54,0.5
+gloom,"grass, poison","chlorophyll, stench",60,65,70,85,75,40,86,0.8
+vileplume,"grass, poison","chlorophyll, effect-spore",75,80,85,110,90,50,186,1.2
+paras,"bug, grass","effect-spore, dry-skin, damp",35,70,55,45,55,25,54,0.3
+parasect,"bug, grass","effect-spore, dry-skin, damp",60,95,80,60,80,30,295,1.0
+venonat,"bug, poison","compound-eyes, tinted-lens, run-away",60,55,50,40,55,45,300,1.0
+venomoth,"bug, poison","shield-dust, tinted-lens, wonder-skin",70,65,60,90,75,90,125,1.5
+diglett,ground,"sand-veil, arena-trap, sand-force",10,55,25,35,45,95,8,0.2
+dugtrio,ground,"sand-veil, arena-trap, sand-force",35,100,50,50,70,120,333,0.7
+meowth,normal,"pickup, technician, unnerve",40,45,35,40,40,90,42,0.4
+persian,normal,"limber, technician, unnerve",65,70,60,65,65,115,320,1.0
+psyduck,water,"damp, cloud-nine, swift-swim",50,52,48,65,50,55,196,0.8
+golduck,water,"damp, cloud-nine, swift-swim",80,82,78,95,80,85,766,1.7
+mankey,fighting,"vital-spirit, anger-point, defiant",40,80,35,35,45,70,280,0.5
+primeape,fighting,"vital-spirit, anger-point, defiant",65,105,60,60,70,95,320,1.0
+growlithe,fire,"intimidate, flash-fire, justified",55,70,45,70,50,60,190,0.7
+arcanine,fire,"intimidate, flash-fire, justified",90,110,80,100,80,95,1550,1.9
+poliwag,water,"water-absorb, damp, swift-swim",40,50,40,40,40,90,124,0.6
+poliwhirl,water,"water-absorb, damp, swift-swim",65,65,65,50,50,90,200,1.0
+poliwrath,"water, fighting","water-absorb, damp, swift-swim",90,95,95,70,90,70,540,1.3
+abra,psychic,"synchronize, inner-focus, magic-guard",25,20,15,105,55,90,195,0.9
+kadabra,psychic,"synchronize, inner-focus, magic-guard",40,35,30,120,70,105,565,1.3
+alakazam,psychic,"synchronize, inner-focus, magic-guard",55,50,45,135,95,120,480,1.5
+machop,fighting,"guts, no-guard, steadfast",70,80,50,35,35,35,195,0.8
+machoke,fighting,"guts, no-guard, steadfast",80,100,70,50,60,45,705,1.5
+machamp,fighting,"guts, no-guard, steadfast",90,130,80,65,85,55,1300,1.6
+bellsprout,"grass, poison","chlorophyll, gluttony",50,75,35,70,30,40,40,0.7
+weepinbell,"grass, poison","chlorophyll, gluttony",65,90,50,85,45,55,64,1.0
+victreebel,"grass, poison","chlorophyll, gluttony",80,105,65,100,70,70,155,1.7
+tentacool,"water, poison","clear-body, liquid-ooze, rain-dish",40,40,35,50,100,70,455,0.9
+tentacruel,"water, poison","clear-body, liquid-ooze, rain-dish",80,70,65,80,120,100,550,1.6
+geodude,"rock, ground","rock-head, sturdy, sand-veil",40,80,100,30,30,20,200,0.4
+graveler,"rock, ground","rock-head, sturdy, sand-veil",55,95,115,45,45,35,1050,1.0
+golem,"rock, ground","rock-head, sturdy, sand-veil",80,120,130,55,65,45,3000,1.4
+ponyta,fire,"run-away, flash-fire, flame-body",50,85,55,65,65,90,300,1.0
+rapidash,fire,"run-away, flash-fire, flame-body",65,100,70,80,80,105,950,1.7
+slowpoke,"water, psychic","oblivious, own-tempo, regenerator",90,65,65,40,40,15,360,1.2
+slowbro,"water, psychic","oblivious, own-tempo, regenerator",95,75,110,100,80,30,785,1.6
+magnemite,"electric, steel","magnet-pull, sturdy, analytic",25,35,70,95,55,45,60,0.3
+magneton,"electric, steel","magnet-pull, sturdy, analytic",50,60,95,120,70,70,600,1.0
+farfetchd,"normal, flying","keen-eye, inner-focus, defiant",52,90,55,58,62,60,150,0.8
+doduo,"normal, flying","run-away, early-bird, tangled-feet",35,85,45,35,35,75,392,1.4
+dodrio,"normal, flying","run-away, early-bird, tangled-feet",60,110,70,60,60,110,852,1.8
+seel,water,"thick-fat, hydration, ice-body",65,45,55,45,70,45,900,1.1
+dewgong,"water, ice","thick-fat, hydration, ice-body",90,70,80,70,95,70,1200,1.7
+grimer,poison,"stench, sticky-hold, poison-touch",80,80,50,40,50,25,300,0.9
+muk,poison,"stench, sticky-hold, poison-touch",105,105,75,65,100,50,300,1.2
+shellder,water,"shell-armor, skill-link, overcoat",30,65,100,45,25,40,40,0.3
+cloyster,"water, ice","shell-armor, skill-link, overcoat",50,95,180,85,45,70,1325,1.5
+gastly,"ghost, poison",levitate,30,35,30,100,35,80,1,1.3
+haunter,"ghost, poison",levitate,45,50,45,115,55,95,1,1.6
+gengar,"ghost, poison",cursed-body,60,65,60,130,75,110,405,1.5
+onix,"rock, ground","rock-head, sturdy, weak-armor",35,45,160,30,45,70,2100,8.8
+drowzee,psychic,"insomnia, forewarn, inner-focus",60,48,45,43,90,42,324,1.0
+hypno,psychic,"insomnia, forewarn, inner-focus",85,73,70,73,115,67,756,1.6
+krabby,water,"hyper-cutter, shell-armor, sheer-force",30,105,90,25,25,50,65,0.4
+kingler,water,"hyper-cutter, shell-armor, sheer-force",55,130,115,50,50,75,600,1.3
+voltorb,electric,"soundproof, static, aftermath",40,30,50,55,55,100,104,0.5
+electrode,electric,"soundproof, static, aftermath",60,50,70,80,80,150,666,1.2
+exeggcute,"grass, psychic","chlorophyll, harvest",60,40,80,60,45,40,25,0.4
+exeggutor,"grass, psychic","chlorophyll, harvest",95,95,85,125,75,55,1200,2.0
+cubone,ground,"rock-head, lightning-rod, battle-armor",50,50,95,40,50,35,65,0.4
+marowak,ground,"rock-head, lightning-rod, battle-armor",60,80,110,50,80,45,450,1.0
+hitmonlee,fighting,"limber, reckless, unburden",50,120,53,35,110,87,498,1.5
+hitmonchan,fighting,"keen-eye, iron-fist, inner-focus",50,105,79,35,110,76,502,1.4
+lickitung,normal,"own-tempo, oblivious, cloud-nine",90,55,75,60,75,30,655,1.2
+koffing,poison,"levitate, neutralizing-gas, stench",40,65,95,60,45,35,10,0.6
+weezing,poison,"levitate, neutralizing-gas, stench",65,90,120,85,70,60,95,1.2
+rhyhorn,"ground, rock","lightning-rod, rock-head, reckless",80,85,95,30,30,25,1150,1.0
+rhydon,"ground, rock","lightning-rod, rock-head, reckless",105,130,120,45,45,40,1200,1.9
+chansey,normal,"natural-cure, serene-grace, healer",250,5,5,35,105,50,346,1.1
+tangela,grass,"chlorophyll, leaf-guard, regenerator",65,55,115,100,40,60,350,1.0
+kangaskhan,normal,"early-bird, scrappy, inner-focus",105,95,80,40,80,90,800,2.2
+horsea,water,"swift-swim, sniper, damp",30,40,70,70,25,60,80,0.4
+seadra,water,"poison-point, sniper, damp",55,65,95,95,45,85,250,1.2
+goldeen,water,"swift-swim, water-veil, lightning-rod",45,67,60,35,50,63,150,0.6
+seaking,water,"swift-swim, water-veil, lightning-rod",80,92,65,65,80,68,390,1.3
+staryu,water,"illuminate, natural-cure, analytic",30,45,55,70,55,85,345,0.8
+starmie,"water, psychic","illuminate, natural-cure, analytic",60,75,85,100,85,115,800,1.1
+mr-mime,"psychic, fairy","soundproof, filter, technician",40,45,65,100,120,90,545,1.3
+scyther,"bug, flying","swarm, technician, steadfast",70,110,80,55,80,105,560,1.5
+jynx,"ice, psychic","oblivious, forewarn, dry-skin",65,50,35,115,95,95,406,1.4
+electabuzz,electric,"static, vital-spirit",65,83,57,95,85,105,300,1.1
+magmar,fire,"flame-body, vital-spirit",65,95,57,100,85,93,445,1.3
+pinsir,bug,"hyper-cutter, mold-breaker, moxie",65,125,100,55,70,85,550,1.5
+tauros,normal,"intimidate, anger-point, sheer-force",75,100,95,40,70,110,884,1.4
+magikarp,water,"swift-swim, rattled",20,10,55,15,20,80,100,0.9
+gyarados,"water, flying","intimidate, moxie",95,125,79,60,100,81,2350,6.5
+lapras,"water, ice","water-absorb, shell-armor, hydration",130,85,80,85,95,60,2200,2.5
+ditto,normal,"limber, imposter",48,48,48,48,48,48,40,0.3
+eevee,normal,"run-away, adaptability, anticipation",55,55,50,45,65,55,65,0.3
+vaporeon,water,"water-absorb, hydration",130,65,60,110,95,65,290,1.0
+jolteon,electric,"volt-absorb, quick-feet",65,65,60,110,95,130,245,0.8
+flareon,fire,"flash-fire, guts",65,130,60,95,110,65,250,0.9
+porygon,normal,"trace, download, analytic",65,60,70,85,75,40,365,0.8
+omanyte,"rock, water","swift-swim, shell-armor, weak-armor",35,40,100,90,55,35,75,0.4
+omastar,"rock, water","swift-swim, shell-armor, weak-armor",70,60,125,115,70,55,350,1.0
+kabuto,"rock, water","swift-swim, battle-armor, weak-armor",30,80,90,55,45,55,115,0.5
+kabutops,"rock, water","swift-swim, battle-armor, weak-armor",60,115,105,65,70,80,405,1.3
+aerodactyl,"rock, flying","rock-head, pressure, unnerve",80,105,65,60,75,130,590,1.8
+snorlax,normal,"immunity, thick-fat, gluttony",160,110,65,65,110,30,4600,2.1
+articuno,"ice, flying","pressure, snow-cloak",90,85,100,95,125,85,554,1.7
+zapdos,"electric, flying","pressure, static",90,90,85,125,90,100,526,1.6
+moltres,"fire, flying","pressure, flame-body",90,100,90,125,85,90,600,2.0
+dratini,dragon,"shed-skin, marvel-scale",41,64,45,50,50,50,33,1.8
+dragonair,dragon,"shed-skin, marvel-scale",61,84,65,70,70,70,165,4.0
+dragonite,"dragon, flying","inner-focus, multiscale",91,134,95,100,100,80,2100,2.2
+mewtwo,psychic,"pressure, unnerve",106,110,90,154,90,130,1220,2.0
+mew,psychic,synchronize,100,100,100,100,100,100,40,0.4
+chikorita,grass,"overgrow, leaf-guard",45,49,65,49,65,45,64,0.9
+bayleef,grass,"overgrow, leaf-guard",60,62,80,63,80,60,158,1.2
+meganium,grass,"overgrow, leaf-guard",80,82,100,83,100,80,1005,1.8
+cyndaquil,fire,"blaze, flash-fire",39,52,43,60,50,65,79,0.5
+quilava,fire,"blaze, flash-fire",58,64,58,80,65,80,190,0.9
+typhlosion,fire,"blaze, flash-fire",78,84,78,109,85,100,795,1.7
+totodile,water,"torrent, sheer-force",50,65,64,44,48,43,95,0.6
+croconaw,water,"torrent, sheer-force",65,80,80,59,63,58,250,1.1
+feraligatr,water,"torrent, sheer-force",85,105,100,79,83,78,888,2.3
+sentret,normal,"run-away, keen-eye, frisk",35,46,34,35,45,20,60,0.8
+furret,normal,"run-away, keen-eye, frisk",85,76,64,45,55,90,325,1.8
+hoothoot,"normal, flying","insomnia, keen-eye, tinted-lens",60,30,30,36,56,50,212,0.7
+noctowl,"normal, flying","insomnia, keen-eye, tinted-lens",100,50,50,86,96,70,408,1.6
+ledyba,"bug, flying","swarm, early-bird, rattled",40,20,30,40,80,55,108,1.0
+ledian,"bug, flying","swarm, early-bird, iron-fist",55,35,50,55,110,85,356,1.4
+spinarak,"bug, poison","swarm, insomnia, sniper",40,60,40,40,40,30,85,0.5
+ariados,"bug, poison","swarm, insomnia, sniper",70,90,70,60,70,40,335,1.1
+crobat,"poison, flying","inner-focus, infiltrator",85,90,80,70,80,130,750,1.8
+chinchou,"water, electric","volt-absorb, illuminate, water-absorb",75,38,38,56,56,67,120,0.5
+lanturn,"water, electric","volt-absorb, illuminate, water-absorb",125,58,58,76,76,67,225,1.2
+pichu,electric,"static, lightning-rod",20,40,15,35,35,60,20,0.3
+cleffa,fairy,"cute-charm, magic-guard, friend-guard",50,25,28,45,55,15,30,0.3
+igglybuff,"normal, fairy","cute-charm, competitive, friend-guard",90,30,15,40,20,15,10,0.3
+togepi,fairy,"hustle, serene-grace, super-luck",35,20,65,40,65,20,15,0.3
+togetic,"fairy, flying","hustle, serene-grace, super-luck",55,40,85,80,105,40,32,0.6
+natu,"psychic, flying","synchronize, early-bird, magic-bounce",40,50,45,70,45,70,20,0.2
+xatu,"psychic, flying","synchronize, early-bird, magic-bounce",65,75,70,95,70,95,150,1.5
+mareep,electric,"static, plus",55,40,40,65,45,35,78,0.6
+flaaffy,electric,"static, plus",70,55,55,80,60,45,133,0.8
+ampharos,electric,"static, plus",90,75,85,115,90,55,615,1.4
+bellossom,grass,"chlorophyll, healer",75,80,95,90,100,50,58,0.4
+marill,"water, fairy","thick-fat, huge-power, sap-sipper",70,20,50,20,50,40,85,0.4
+azumarill,"water, fairy","thick-fat, huge-power, sap-sipper",100,50,80,60,80,50,285,0.8
+sudowoodo,rock,"sturdy, rock-head, rattled",70,100,115,30,65,30,380,1.2
+politoed,water,"water-absorb, damp, drizzle",90,75,75,90,100,70,339,1.1
+hoppip,"grass, flying","chlorophyll, leaf-guard, infiltrator",35,35,40,35,55,50,5,0.4
+skiploom,"grass, flying","chlorophyll, leaf-guard, infiltrator",55,45,50,45,65,80,10,0.6
+jumpluff,"grass, flying","chlorophyll, leaf-guard, infiltrator",75,55,70,55,95,110,30,0.8
+aipom,normal,"run-away, pickup, skill-link",55,70,55,40,55,85,115,0.8
+sunkern,grass,"chlorophyll, solar-power, early-bird",30,30,30,30,30,30,18,0.3
+sunflora,grass,"chlorophyll, solar-power, early-bird",75,75,55,105,85,30,85,0.8
+yanma,"bug, flying","speed-boost, compound-eyes, frisk",65,65,45,75,45,95,380,1.2
+wooper,"water, ground","damp, water-absorb, unaware",55,45,45,25,25,15,85,0.4
+quagsire,"water, ground","damp, water-absorb, unaware",95,85,85,65,65,35,750,1.4
+espeon,psychic,"synchronize, magic-bounce",65,65,60,130,95,110,265,0.9
+umbreon,dark,"synchronize, inner-focus",95,65,110,60,130,65,270,1.0
+murkrow,"dark, flying","insomnia, super-luck, prankster",60,85,42,85,42,91,21,0.5
+slowking,"water, psychic","oblivious, own-tempo, regenerator",95,75,80,100,110,30,795,2.0
+misdreavus,ghost,levitate,60,60,60,85,85,85,10,0.7
+unown,psychic,levitate,48,72,48,72,48,48,50,0.5
+wobbuffet,psychic,"shadow-tag, telepathy",190,33,58,33,58,33,285,1.3
+girafarig,"normal, psychic","inner-focus, early-bird, sap-sipper",70,80,65,90,65,85,415,1.5
+pineco,bug,"sturdy, overcoat",50,65,90,35,35,15,72,0.6
+forretress,"bug, steel","sturdy, overcoat",75,90,140,60,60,40,1258,1.2
+dunsparce,normal,"serene-grace, run-away, rattled",100,70,70,65,65,45,140,1.5
+gligar,"ground, flying","hyper-cutter, sand-veil, immunity",65,75,105,35,65,85,648,1.1
+steelix,"steel, ground","rock-head, sturdy, sheer-force",75,85,200,55,65,30,4000,9.2
+snubbull,fairy,"intimidate, run-away, rattled",60,80,50,40,40,30,78,0.6
+granbull,fairy,"intimidate, quick-feet, rattled",90,120,75,60,60,45,487,1.4
+qwilfish,"water, poison","poison-point, swift-swim, intimidate",65,95,85,55,55,85,39,0.5
+scizor,"bug, steel","swarm, technician, light-metal",70,130,100,55,80,65,1180,1.8
+shuckle,"bug, rock","sturdy, gluttony, contrary",20,10,230,10,230,5,205,0.6
+heracross,"bug, fighting","swarm, guts, moxie",80,125,75,40,95,85,540,1.5
+sneasel,"dark, ice","inner-focus, keen-eye, pickpocket",55,95,55,35,75,115,280,0.9
+teddiursa,normal,"pickup, quick-feet, honey-gather",60,80,50,50,50,40,88,0.6
+ursaring,normal,"guts, quick-feet, unnerve",90,130,75,75,75,55,1258,1.8
+slugma,fire,"magma-armor, flame-body, weak-armor",40,40,40,70,40,20,350,0.7
+magcargo,"fire, rock","magma-armor, flame-body, weak-armor",60,50,120,90,80,30,550,0.8
+swinub,"ice, ground","oblivious, snow-cloak, thick-fat",50,50,40,30,30,50,65,0.4
+piloswine,"ice, ground","oblivious, snow-cloak, thick-fat",100,100,80,60,60,50,558,1.1
+corsola,"water, rock","hustle, natural-cure, regenerator",65,55,95,65,95,35,50,0.6
+remoraid,water,"hustle, sniper, moody",35,65,35,65,35,65,120,0.6
+octillery,water,"suction-cups, sniper, moody",75,105,75,105,75,45,285,0.9
+delibird,"ice, flying","vital-spirit, hustle, insomnia",45,55,45,65,45,75,160,0.9
+mantine,"water, flying","swift-swim, water-absorb, water-veil",85,40,70,80,140,70,2200,2.1
+skarmory,"steel, flying","keen-eye, sturdy, weak-armor",65,80,140,40,70,70,505,1.7
+houndour,"dark, fire","early-bird, flash-fire, unnerve",45,60,30,80,50,65,108,0.6
+houndoom,"dark, fire","early-bird, flash-fire, unnerve",75,90,50,110,80,95,350,1.4
+kingdra,"water, dragon","swift-swim, sniper, damp",75,95,95,95,95,85,1520,1.8
+phanpy,ground,"pickup, sand-veil",90,60,60,40,40,40,335,0.5
+donphan,ground,"sturdy, sand-veil",90,120,120,60,60,50,1200,1.1
+stantler,normal,"intimidate, frisk, sap-sipper",73,95,62,85,65,85,712,1.4
+smeargle,normal,"own-tempo, technician, moody",55,20,35,20,45,75,580,1.2
+tyrogue,fighting,"guts, steadfast, vital-spirit",35,35,35,35,35,35,210,0.7
+hitmontop,fighting,"intimidate, technician, steadfast",50,95,95,35,110,70,480,1.4
+smoochum,"ice, psychic","oblivious, forewarn, hydration",45,30,15,85,65,65,60,0.4
+elekid,electric,"static, vital-spirit",45,63,37,65,55,95,235,0.6
+magby,fire,"flame-body, vital-spirit",45,75,37,70,55,83,214,0.7
+miltank,normal,"thick-fat, scrappy, sap-sipper",95,80,105,40,70,100,755,1.2
+blissey,normal,"natural-cure, serene-grace, healer",255,10,10,75,135,55,468,1.5
+raikou,electric,"pressure, inner-focus",90,85,75,115,100,115,1780,1.9
+entei,fire,"pressure, inner-focus",115,115,85,90,75,100,1980,2.1
+suicune,water,"pressure, inner-focus",100,75,115,90,115,85,1870,2.0
+larvitar,"rock, ground","guts, sand-veil",50,64,50,45,50,41,720,0.6
+pupitar,"rock, ground",shed-skin,70,84,70,65,70,51,1520,1.2
+tyranitar,"rock, dark","sand-stream, unnerve",100,134,110,95,100,61,2020,2.0
+lugia,"psychic, flying","pressure, multiscale",106,90,130,90,154,110,2160,5.2
+ho-oh,"fire, flying","pressure, regenerator",106,130,90,110,154,90,1990,3.8
+celebi,"psychic, grass",natural-cure,100,100,100,100,100,100,50,0.6
+treecko,grass,"overgrow, unburden",40,45,35,65,55,70,50,0.5
+grovyle,grass,"overgrow, unburden",50,65,45,85,65,95,216,0.9
+sceptile,grass,"overgrow, unburden",70,85,65,105,85,120,522,1.7
+torchic,fire,"blaze, speed-boost",45,60,40,70,50,45,25,0.4
+combusken,"fire, fighting","blaze, speed-boost",60,85,60,85,60,55,195,0.9
+blaziken,"fire, fighting","blaze, speed-boost",80,120,70,110,70,80,520,1.9
+mudkip,water,"torrent, damp",50,70,50,50,50,40,76,0.4
+marshtomp,"water, ground","torrent, damp",70,85,70,60,70,50,280,0.7
+swampert,"water, ground","torrent, damp",100,110,90,85,90,60,819,1.5
+poochyena,dark,"run-away, quick-feet, rattled",35,55,35,30,30,35,136,0.5
+mightyena,dark,"intimidate, quick-feet, moxie",70,90,70,60,60,70,370,1.0
+zigzagoon,normal,"pickup, gluttony, quick-feet",38,30,41,30,41,60,175,0.4
+linoone,normal,"pickup, gluttony, quick-feet",78,70,61,50,61,100,325,0.5
+wurmple,bug,"shield-dust, run-away",45,45,35,20,30,20,36,0.3
+silcoon,bug,shed-skin,50,35,55,25,25,15,100,0.6
+beautifly,"bug, flying","swarm, rivalry",60,70,50,100,50,65,284,1.0
+cascoon,bug,shed-skin,50,35,55,25,25,15,115,0.7
+dustox,"bug, poison","shield-dust, compound-eyes",60,50,70,50,90,65,316,1.2
+lotad,"water, grass","swift-swim, rain-dish, own-tempo",40,30,30,40,50,30,26,0.5
+lombre,"water, grass","swift-swim, rain-dish, own-tempo",60,50,50,60,70,50,325,1.2
+ludicolo,"water, grass","swift-swim, rain-dish, own-tempo",80,70,70,90,100,70,550,1.5
+seedot,grass,"chlorophyll, early-bird, pickpocket",40,40,50,30,30,30,40,0.5
+nuzleaf,"grass, dark","chlorophyll, early-bird, pickpocket",70,70,40,60,40,60,280,1.0
+shiftry,"grass, dark","chlorophyll, wind-rider, pickpocket",90,100,60,90,60,80,596,1.3
+taillow,"normal, flying","guts, scrappy",40,55,30,30,30,85,23,0.3
+swellow,"normal, flying","guts, scrappy",60,85,60,75,50,125,198,0.7
+wingull,"water, flying","keen-eye, hydration, rain-dish",40,30,30,55,30,85,95,0.6
+pelipper,"water, flying","keen-eye, drizzle, rain-dish",60,50,100,95,70,65,280,1.2
+ralts,"psychic, fairy","synchronize, trace, telepathy",28,25,25,45,35,40,66,0.4
+kirlia,"psychic, fairy","synchronize, trace, telepathy",38,35,35,65,55,50,202,0.8
+gardevoir,"psychic, fairy","synchronize, trace, telepathy",68,65,65,125,115,80,484,1.6
+surskit,"bug, water","swift-swim, rain-dish",40,30,32,50,52,65,17,0.5
+masquerain,"bug, flying","intimidate, unnerve",70,60,62,100,82,80,36,0.8
+shroomish,grass,"effect-spore, poison-heal, quick-feet",60,40,60,40,60,35,45,0.4
+breloom,"grass, fighting","effect-spore, poison-heal, technician",60,130,80,60,60,70,392,1.2
+slakoth,normal,truant,60,60,60,35,35,30,240,0.8
+vigoroth,normal,vital-spirit,80,80,80,55,55,90,465,1.4
+slaking,normal,truant,150,160,100,95,65,100,1305,2.0
+nincada,"bug, ground","compound-eyes, run-away",31,45,90,30,30,40,55,0.5
+ninjask,"bug, flying","speed-boost, infiltrator",61,90,45,50,50,160,120,0.8
+shedinja,"bug, ghost",wonder-guard,1,90,45,30,30,40,12,0.8
+whismur,normal,"soundproof, rattled",64,51,23,51,23,28,163,0.6
+loudred,normal,"soundproof, scrappy",84,71,43,71,43,48,405,1.0
+exploud,normal,"soundproof, scrappy",104,91,63,91,73,68,840,1.5
+makuhita,fighting,"thick-fat, guts, sheer-force",72,60,30,20,30,25,864,1.0
+hariyama,fighting,"thick-fat, guts, sheer-force",144,120,60,40,60,50,2538,2.3
+azurill,"normal, fairy","thick-fat, huge-power, sap-sipper",50,20,40,20,40,20,20,0.2
+nosepass,rock,"sturdy, magnet-pull, sand-force",30,45,135,45,90,30,970,1.0
+skitty,normal,"cute-charm, normalize, wonder-skin",50,45,45,35,35,50,110,0.6
+delcatty,normal,"cute-charm, normalize, wonder-skin",70,65,65,55,55,90,326,1.1
+sableye,"dark, ghost","keen-eye, stall, prankster",50,75,75,65,65,50,110,0.5
+mawile,"steel, fairy","hyper-cutter, intimidate, sheer-force",50,85,85,55,55,50,115,0.6
+aron,"steel, rock","sturdy, rock-head, heavy-metal",50,70,100,40,40,30,600,0.4
+lairon,"steel, rock","sturdy, rock-head, heavy-metal",60,90,140,50,50,40,1200,0.9
+aggron,"steel, rock","sturdy, rock-head, heavy-metal",70,110,180,60,60,50,3600,2.1
+meditite,"fighting, psychic","pure-power, telepathy",30,40,55,40,55,60,112,0.6
+medicham,"fighting, psychic","pure-power, telepathy",60,60,75,60,75,80,315,1.3
+electrike,electric,"static, lightning-rod, minus",40,45,40,65,40,65,152,0.6
+manectric,electric,"static, lightning-rod, minus",70,75,60,105,60,105,402,1.5
+plusle,electric,"plus, lightning-rod",60,50,40,85,75,95,42,0.4
+minun,electric,"minus, volt-absorb",60,40,50,75,85,95,42,0.4
+volbeat,bug,"illuminate, swarm, prankster",65,73,75,47,85,85,177,0.7
+illumise,bug,"oblivious, tinted-lens, prankster",65,47,75,73,85,85,177,0.6
+roselia,"grass, poison","natural-cure, poison-point, leaf-guard",50,60,45,100,80,65,20,0.3
+gulpin,poison,"liquid-ooze, sticky-hold, gluttony",70,43,53,43,53,40,103,0.4
+swalot,poison,"liquid-ooze, sticky-hold, gluttony",100,73,83,73,83,55,800,1.7
+carvanha,"water, dark","rough-skin, speed-boost",45,90,20,65,20,65,208,0.8
+sharpedo,"water, dark","rough-skin, speed-boost",70,120,40,95,40,95,888,1.8
+wailmer,water,"water-veil, oblivious, pressure",130,70,35,70,35,60,1300,2.0
+wailord,water,"water-veil, oblivious, pressure",170,90,45,90,45,60,3980,14.5
+numel,"fire, ground","oblivious, simple, own-tempo",60,60,40,65,45,35,240,0.7
+camerupt,"fire, ground","magma-armor, solid-rock, anger-point",70,100,70,105,75,40,2200,1.9
+torkoal,fire,"white-smoke, drought, shell-armor",70,85,140,85,70,20,804,0.5
+spoink,psychic,"thick-fat, own-tempo, gluttony",60,25,35,70,80,60,306,0.7
+grumpig,psychic,"thick-fat, own-tempo, gluttony",80,45,65,90,110,80,715,0.9
+spinda,normal,"own-tempo, tangled-feet, contrary",60,60,60,60,60,60,50,1.1
+trapinch,ground,"hyper-cutter, arena-trap, sheer-force",45,100,45,45,45,10,150,0.7
+vibrava,"ground, dragon",levitate,50,70,50,50,50,70,153,1.1
+flygon,"ground, dragon",levitate,80,100,80,80,80,100,820,2.0
+cacnea,grass,"sand-veil, water-absorb",50,85,40,85,40,35,513,0.4
+cacturne,"grass, dark","sand-veil, water-absorb",70,115,60,115,60,55,774,1.3
+swablu,"normal, flying","natural-cure, cloud-nine",45,40,60,40,75,50,12,0.4
+altaria,"dragon, flying","natural-cure, cloud-nine",75,70,90,70,105,80,206,1.1
+zangoose,normal,"immunity, toxic-boost",73,115,60,60,60,90,403,1.3
+seviper,poison,"shed-skin, infiltrator",73,100,60,100,60,65,525,2.7
+lunatone,"rock, psychic",levitate,90,55,65,95,85,70,1680,1.0
+solrock,"rock, psychic",levitate,90,95,85,55,65,70,1540,1.2
+barboach,"water, ground","oblivious, anticipation, hydration",50,48,43,46,41,60,19,0.4
+whiscash,"water, ground","oblivious, anticipation, hydration",110,78,73,76,71,60,236,0.9
+corphish,water,"hyper-cutter, shell-armor, adaptability",43,80,65,50,35,35,115,0.6
+crawdaunt,"water, dark","hyper-cutter, shell-armor, adaptability",63,120,85,90,55,55,328,1.1
+baltoy,"ground, psychic",levitate,40,40,55,40,70,55,215,0.5
+claydol,"ground, psychic",levitate,60,70,105,70,120,75,1080,1.5
+lileep,"rock, grass","suction-cups, storm-drain",66,41,77,61,87,23,238,1.0
+cradily,"rock, grass","suction-cups, storm-drain",86,81,97,81,107,43,604,1.5
+anorith,"rock, bug","battle-armor, swift-swim",45,95,50,40,50,75,125,0.7
+armaldo,"rock, bug","battle-armor, swift-swim",75,125,100,70,80,45,682,1.5
+feebas,water,"swift-swim, oblivious, adaptability",20,15,20,10,55,80,74,0.6
+milotic,water,"marvel-scale, competitive, cute-charm",95,60,79,100,125,81,1620,6.2
+castform,normal,forecast,70,70,70,70,70,70,8,0.3
+kecleon,normal,"color-change, protean",60,90,70,60,120,40,220,1.0
+shuppet,ghost,"insomnia, frisk, cursed-body",44,75,35,63,33,45,23,0.6
+banette,ghost,"insomnia, frisk, cursed-body",64,115,65,83,63,65,125,1.1
+duskull,ghost,"levitate, frisk",20,40,90,30,90,25,150,0.8
+dusclops,ghost,"pressure, frisk",40,70,130,60,130,25,306,1.6
+tropius,"grass, flying","chlorophyll, solar-power, harvest",99,68,83,72,87,51,1000,2.0
+chimecho,psychic,levitate,75,50,80,95,90,65,10,0.6
+absol,dark,"pressure, super-luck, justified",65,130,60,75,60,75,470,1.2
+wynaut,psychic,"shadow-tag, telepathy",95,23,48,23,48,23,140,0.6
+snorunt,ice,"inner-focus, ice-body, moody",50,50,50,50,50,50,168,0.7
+glalie,ice,"inner-focus, ice-body, moody",80,80,80,80,80,80,2565,1.5
+spheal,"ice, water","thick-fat, ice-body, oblivious",70,40,50,55,50,25,395,0.8
+sealeo,"ice, water","thick-fat, ice-body, oblivious",90,60,70,75,70,45,876,1.1
+walrein,"ice, water","thick-fat, ice-body, oblivious",110,80,90,95,90,65,1506,1.4
+clamperl,water,"shell-armor, rattled",35,64,85,74,55,32,525,0.4
+huntail,water,"swift-swim, water-veil",55,104,105,94,75,52,270,1.7
+gorebyss,water,"swift-swim, hydration",55,84,105,114,75,52,226,1.8
+relicanth,"water, rock","swift-swim, rock-head, sturdy",100,90,130,45,65,55,234,1.0
+luvdisc,water,"swift-swim, hydration",43,30,55,40,65,97,87,0.6
+bagon,dragon,"rock-head, sheer-force",45,75,60,40,30,50,421,0.6
+shelgon,dragon,"rock-head, overcoat",65,95,100,60,50,50,1105,1.1
+salamence,"dragon, flying","intimidate, moxie",95,135,80,110,80,100,1026,1.5
+beldum,"steel, psychic","clear-body, light-metal",40,55,80,35,60,30,952,0.6
+metang,"steel, psychic","clear-body, light-metal",60,75,100,55,80,50,2025,1.2
+metagross,"steel, psychic","clear-body, light-metal",80,135,130,95,90,70,5500,1.6
+regirock,rock,"clear-body, sturdy",80,100,200,50,100,50,2300,1.7
+regice,ice,"clear-body, ice-body",80,50,100,100,200,50,1750,1.8
+registeel,steel,"clear-body, light-metal",80,75,150,75,150,50,2050,1.9
+latias,"dragon, psychic",levitate,80,80,90,110,130,110,400,1.4
+latios,"dragon, psychic",levitate,80,90,80,130,110,110,600,2.0
+kyogre,water,drizzle,100,100,90,150,140,90,3520,4.5
+groudon,ground,drought,100,150,140,100,90,90,9500,3.5
+rayquaza,"dragon, flying",air-lock,105,150,90,150,90,95,2065,7.0
+jirachi,"steel, psychic",serene-grace,100,100,100,100,100,100,11,0.3
+deoxys-normal,psychic,pressure,50,150,50,150,50,150,608,1.7
+turtwig,grass,"overgrow, shell-armor",55,68,64,45,55,31,102,0.4
+grotle,grass,"overgrow, shell-armor",75,89,85,55,65,36,970,1.1
+torterra,"grass, ground","overgrow, shell-armor",95,109,105,75,85,56,3100,2.2
+chimchar,fire,"blaze, iron-fist",44,58,44,58,44,61,62,0.5
+monferno,"fire, fighting","blaze, iron-fist",64,78,52,78,52,81,220,0.9
+infernape,"fire, fighting","blaze, iron-fist",76,104,71,104,71,108,550,1.2
+piplup,water,"torrent, competitive",53,51,53,61,56,40,52,0.4
+prinplup,water,"torrent, competitive",64,66,68,81,76,50,230,0.8
+empoleon,"water, steel","torrent, competitive",84,86,88,111,101,60,845,1.7
+starly,"normal, flying","keen-eye, reckless",40,55,30,30,30,60,20,0.3
+staravia,"normal, flying","intimidate, reckless",55,75,50,40,40,80,155,0.6
+staraptor,"normal, flying","intimidate, reckless",85,120,70,50,60,100,249,1.2
+bidoof,normal,"simple, unaware, moody",59,45,40,35,40,31,200,0.5
+bibarel,"normal, water","simple, unaware, moody",79,85,60,55,60,71,315,1.0
+kricketot,bug,"shed-skin, run-away",37,25,41,25,41,25,22,0.3
+kricketune,bug,"swarm, technician",77,85,51,55,51,65,255,1.0
+shinx,electric,"rivalry, intimidate, guts",45,65,34,40,34,45,95,0.5
+luxio,electric,"rivalry, intimidate, guts",60,85,49,60,49,60,305,0.9
+luxray,electric,"rivalry, intimidate, guts",80,120,79,95,79,70,420,1.4
+budew,"grass, poison","natural-cure, poison-point, leaf-guard",40,30,35,50,70,55,12,0.2
+roserade,"grass, poison","natural-cure, poison-point, technician",60,70,65,125,105,90,145,0.9
+cranidos,rock,"mold-breaker, sheer-force",67,125,40,30,30,58,315,0.9
+rampardos,rock,"mold-breaker, sheer-force",97,165,60,65,50,58,1025,1.6
+shieldon,"rock, steel","sturdy, soundproof",30,42,118,42,88,30,570,0.5
+bastiodon,"rock, steel","sturdy, soundproof",60,52,168,47,138,30,1495,1.3
+burmy,bug,"shed-skin, overcoat",40,29,45,29,45,36,34,0.2
+wormadam-plant,"bug, grass","anticipation, overcoat",60,59,85,79,105,36,65,0.5
+mothim,"bug, flying","swarm, tinted-lens",70,94,50,94,50,66,233,0.9
+combee,"bug, flying","honey-gather, hustle",30,30,42,30,42,70,55,0.3
+vespiquen,"bug, flying","pressure, unnerve",70,80,102,80,102,40,385,1.2
+pachirisu,electric,"run-away, pickup, volt-absorb",60,45,70,45,90,95,39,0.4
+buizel,water,"swift-swim, water-veil",55,65,35,60,30,85,295,0.7
+floatzel,water,"swift-swim, water-veil",85,105,55,85,50,115,335,1.1
+cherubi,grass,chlorophyll,45,35,45,62,53,35,33,0.4
+cherrim,grass,flower-gift,70,60,70,87,78,85,93,0.5
+shellos,water,"sticky-hold, storm-drain, sand-force",76,48,48,57,62,34,63,0.3
+gastrodon,"water, ground","sticky-hold, storm-drain, sand-force",111,83,68,92,82,39,299,0.9
+ambipom,normal,"technician, pickup, skill-link",75,100,66,60,66,115,203,1.2
+drifloon,"ghost, flying","aftermath, unburden, flare-boost",90,50,34,60,44,70,12,0.4
+drifblim,"ghost, flying","aftermath, unburden, flare-boost",150,80,44,90,54,80,150,1.2
+buneary,normal,"run-away, klutz, limber",55,66,44,44,56,85,55,0.4
+lopunny,normal,"cute-charm, klutz, limber",65,76,84,54,96,105,333,1.2
+mismagius,ghost,levitate,60,60,60,105,105,105,44,0.9
+honchkrow,"dark, flying","insomnia, super-luck, moxie",100,125,52,105,52,71,273,0.9
+glameow,normal,"limber, own-tempo, keen-eye",49,55,42,42,37,85,39,0.5
+purugly,normal,"thick-fat, own-tempo, defiant",71,82,64,64,59,112,438,1.0
+chingling,psychic,levitate,45,30,50,65,50,45,6,0.2
+stunky,"poison, dark","stench, aftermath, keen-eye",63,63,47,41,41,74,192,0.4
+skuntank,"poison, dark","stench, aftermath, keen-eye",103,93,67,71,61,84,380,1.0
+bronzor,"steel, psychic","levitate, heatproof, heavy-metal",57,24,86,24,86,23,605,0.5
+bronzong,"steel, psychic","levitate, heatproof, heavy-metal",67,89,116,79,116,33,1870,1.3
+bonsly,rock,"sturdy, rock-head, rattled",50,80,95,10,45,10,150,0.5
+mime-jr,"psychic, fairy","soundproof, filter, technician",20,25,45,70,90,60,130,0.6
+happiny,normal,"natural-cure, serene-grace, friend-guard",100,5,5,15,65,30,244,0.6
+chatot,"normal, flying","keen-eye, tangled-feet, big-pecks",76,65,45,92,42,91,19,0.5
+spiritomb,"ghost, dark","pressure, infiltrator",50,92,108,92,108,35,1080,1.0
+gible,"dragon, ground","sand-veil, rough-skin",58,70,45,40,45,42,205,0.7
+gabite,"dragon, ground","sand-veil, rough-skin",68,90,65,50,55,82,560,1.4
+garchomp,"dragon, ground","sand-veil, rough-skin",108,130,95,80,85,102,950,1.9
+munchlax,normal,"pickup, thick-fat, gluttony",135,85,40,40,85,5,1050,0.6
+riolu,fighting,"steadfast, inner-focus, prankster",40,70,40,35,40,60,202,0.7
+lucario,"fighting, steel","steadfast, inner-focus, justified",70,110,70,115,70,90,540,1.2
+hippopotas,ground,"sand-stream, sand-force",68,72,78,38,42,32,495,0.8
+hippowdon,ground,"sand-stream, sand-force",108,112,118,68,72,47,3000,2.0
+skorupi,"poison, bug","battle-armor, sniper, keen-eye",40,50,90,30,55,65,120,0.8
+drapion,"poison, dark","battle-armor, sniper, keen-eye",70,90,110,60,75,95,615,1.3
+croagunk,"poison, fighting","anticipation, dry-skin, poison-touch",48,61,40,61,40,50,230,0.7
+toxicroak,"poison, fighting","anticipation, dry-skin, poison-touch",83,106,65,86,65,85,444,1.3
+carnivine,grass,levitate,74,100,72,90,72,46,270,1.4
+finneon,water,"swift-swim, storm-drain, water-veil",49,49,56,49,61,66,70,0.4
+lumineon,water,"swift-swim, storm-drain, water-veil",69,69,76,69,86,91,240,1.2
+mantyke,"water, flying","swift-swim, water-absorb, water-veil",45,20,50,60,120,50,650,1.0
+snover,"grass, ice","snow-warning, soundproof",60,62,50,62,60,40,505,1.0
+abomasnow,"grass, ice","snow-warning, soundproof",90,92,75,92,85,60,1355,2.2
+weavile,"dark, ice","pressure, pickpocket",70,120,65,45,85,125,340,1.1
+magnezone,"electric, steel","magnet-pull, sturdy, analytic",70,70,115,130,90,60,1800,1.2
+lickilicky,normal,"own-tempo, oblivious, cloud-nine",110,85,95,80,95,50,1400,1.7
+rhyperior,"ground, rock","lightning-rod, solid-rock, reckless",115,140,130,55,55,40,2828,2.4
+tangrowth,grass,"chlorophyll, leaf-guard, regenerator",100,100,125,110,50,50,1286,2.0
+electivire,electric,"motor-drive, vital-spirit",75,123,67,95,85,95,1386,1.8
+magmortar,fire,"flame-body, vital-spirit",75,95,67,125,95,83,680,1.6
+togekiss,"fairy, flying","hustle, serene-grace, super-luck",85,50,95,120,115,80,380,1.5
+yanmega,"bug, flying","speed-boost, tinted-lens, frisk",86,76,86,116,56,95,515,1.9
+leafeon,grass,"leaf-guard, chlorophyll",65,110,130,60,65,95,255,1.0
+glaceon,ice,"snow-cloak, ice-body",65,60,110,130,95,65,259,0.8
+gliscor,"ground, flying","hyper-cutter, sand-veil, poison-heal",75,95,125,45,75,95,425,2.0
+mamoswine,"ice, ground","oblivious, snow-cloak, thick-fat",110,130,80,70,60,80,2910,2.5
+porygon-z,normal,"adaptability, download, analytic",85,80,70,135,75,90,340,0.9
+gallade,"psychic, fighting","steadfast, sharpness, justified",68,125,65,65,115,80,520,1.6
+probopass,"rock, steel","sturdy, magnet-pull, sand-force",60,55,145,75,150,40,3400,1.4
+dusknoir,ghost,"pressure, frisk",45,100,135,65,135,45,1066,2.2
+froslass,"ice, ghost","snow-cloak, cursed-body",70,80,70,80,70,110,266,1.3
+rotom,"electric, ghost",levitate,50,50,77,95,77,91,3,0.3
+uxie,psychic,levitate,75,75,130,75,130,95,3,0.3
+mesprit,psychic,levitate,80,105,105,105,105,80,3,0.3
+azelf,psychic,levitate,75,125,70,125,70,115,3,0.3
+dialga,"steel, dragon","pressure, telepathy",100,120,120,150,100,90,6830,5.4
+palkia,"water, dragon","pressure, telepathy",90,120,100,150,120,100,3360,4.2
+heatran,"fire, steel","flash-fire, flame-body",91,90,106,130,106,77,4300,1.7
+regigigas,normal,slow-start,110,160,110,80,110,100,4200,3.7
+giratina-altered,"ghost, dragon","pressure, telepathy",150,100,120,100,120,90,7500,4.5
+cresselia,psychic,levitate,120,70,110,75,120,85,856,1.5
+phione,water,hydration,80,80,80,80,80,80,31,0.4
+manaphy,water,hydration,100,100,100,100,100,100,14,0.3
+darkrai,dark,bad-dreams,70,90,90,135,90,125,505,1.5
+shaymin-land,grass,natural-cure,100,100,100,100,100,100,21,0.2
+arceus,normal,multitype,120,120,120,120,120,120,3200,3.2
+victini,"psychic, fire",victory-star,100,100,100,100,100,100,40,0.4
+snivy,grass,"overgrow, contrary",45,45,55,45,55,63,81,0.6
+servine,grass,"overgrow, contrary",60,60,75,60,75,83,160,0.8
+serperior,grass,"overgrow, contrary",75,75,95,75,95,113,630,3.3
+tepig,fire,"blaze, thick-fat",65,63,45,45,45,45,99,0.5
+pignite,"fire, fighting","blaze, thick-fat",90,93,55,70,55,55,555,1.0
+emboar,"fire, fighting","blaze, reckless",110,123,65,100,65,65,1500,1.6
+oshawott,water,"torrent, shell-armor",55,55,45,63,45,45,59,0.5
+dewott,water,"torrent, shell-armor",75,75,60,83,60,60,245,0.8
+samurott,water,"torrent, shell-armor",95,100,85,108,70,70,946,1.5
+patrat,normal,"run-away, keen-eye, analytic",45,55,39,35,39,42,116,0.5
+watchog,normal,"illuminate, keen-eye, analytic",60,85,69,60,69,77,270,1.1
+lillipup,normal,"vital-spirit, pickup, run-away",45,60,45,25,45,55,41,0.4
+herdier,normal,"intimidate, sand-rush, scrappy",65,80,65,35,65,60,147,0.9
+stoutland,normal,"intimidate, sand-rush, scrappy",85,110,90,45,90,80,610,1.2
+purrloin,dark,"limber, unburden, prankster",41,50,37,50,37,66,101,0.4
+liepard,dark,"limber, unburden, prankster",64,88,50,88,50,106,375,1.1
+pansage,grass,"gluttony, overgrow",50,53,48,53,48,64,105,0.6
+simisage,grass,"gluttony, overgrow",75,98,63,98,63,101,305,1.1
+pansear,fire,"gluttony, blaze",50,53,48,53,48,64,110,0.6
+simisear,fire,"gluttony, blaze",75,98,63,98,63,101,280,1.0
+panpour,water,"gluttony, torrent",50,53,48,53,48,64,135,0.6
+simipour,water,"gluttony, torrent",75,98,63,98,63,101,290,1.0
+munna,psychic,"forewarn, synchronize, telepathy",76,25,45,67,55,24,233,0.6
+musharna,psychic,"forewarn, synchronize, telepathy",116,55,85,107,95,29,605,1.1
+pidove,"normal, flying","big-pecks, super-luck, rivalry",50,55,50,36,30,43,21,0.3
+tranquill,"normal, flying","big-pecks, super-luck, rivalry",62,77,62,50,42,65,150,0.6
+unfezant,"normal, flying","big-pecks, super-luck, rivalry",80,115,80,65,55,93,290,1.2
+blitzle,electric,"lightning-rod, motor-drive, sap-sipper",45,60,32,50,32,76,298,0.8
+zebstrika,electric,"lightning-rod, motor-drive, sap-sipper",75,100,63,80,63,116,795,1.6
+roggenrola,rock,"sturdy, weak-armor, sand-force",55,75,85,25,25,15,180,0.4
+boldore,rock,"sturdy, weak-armor, sand-force",70,105,105,50,40,20,1020,0.9
+gigalith,rock,"sturdy, sand-stream, sand-force",85,135,130,60,80,25,2600,1.7
+woobat,"psychic, flying","unaware, klutz, simple",65,45,43,55,43,72,21,0.4
+swoobat,"psychic, flying","unaware, klutz, simple",67,57,55,77,55,114,105,0.9
+drilbur,ground,"sand-rush, sand-force, mold-breaker",60,85,40,30,45,68,85,0.3
+excadrill,"ground, steel","sand-rush, sand-force, mold-breaker",110,135,60,50,65,88,404,0.7
+audino,normal,"healer, regenerator, klutz",103,60,86,60,86,50,310,1.1
+timburr,fighting,"guts, sheer-force, iron-fist",75,80,55,25,35,35,125,0.6
+gurdurr,fighting,"guts, sheer-force, iron-fist",85,105,85,40,50,40,400,1.2
+conkeldurr,fighting,"guts, sheer-force, iron-fist",105,140,95,55,65,45,870,1.4
+tympole,water,"swift-swim, hydration, water-absorb",50,50,40,50,40,64,45,0.5
+palpitoad,"water, ground","swift-swim, hydration, water-absorb",75,65,55,65,55,69,170,0.8
+seismitoad,"water, ground","swift-swim, poison-touch, water-absorb",105,95,75,85,75,74,620,1.5
+throh,fighting,"guts, inner-focus, mold-breaker",120,100,85,30,85,45,555,1.3
+sawk,fighting,"sturdy, inner-focus, mold-breaker",75,125,75,30,75,85,510,1.4
+sewaddle,"bug, grass","swarm, chlorophyll, overcoat",45,53,70,40,60,42,25,0.3
+swadloon,"bug, grass","leaf-guard, chlorophyll, overcoat",55,63,90,50,80,42,73,0.5
+leavanny,"bug, grass","swarm, chlorophyll, overcoat",75,103,80,70,80,92,205,1.2
+venipede,"bug, poison","poison-point, swarm, speed-boost",30,45,59,30,39,57,53,0.4
+whirlipede,"bug, poison","poison-point, swarm, speed-boost",40,55,99,40,79,47,585,1.2
+scolipede,"bug, poison","poison-point, swarm, speed-boost",60,100,89,55,69,112,2005,2.5
+cottonee,"grass, fairy","prankster, infiltrator, chlorophyll",40,27,60,37,50,66,6,0.3
+whimsicott,"grass, fairy","prankster, infiltrator, chlorophyll",60,67,85,77,75,116,66,0.7
+petilil,grass,"chlorophyll, own-tempo, leaf-guard",45,35,50,70,50,30,66,0.5
+lilligant,grass,"chlorophyll, own-tempo, leaf-guard",70,60,75,110,75,90,163,1.1
+basculin-red-striped,water,"reckless, adaptability, mold-breaker",70,92,65,80,55,98,180,1.0
+sandile,"ground, dark","intimidate, moxie, anger-point",50,72,35,35,35,65,152,0.7
+krokorok,"ground, dark","intimidate, moxie, anger-point",60,82,45,45,45,74,334,1.0
+krookodile,"ground, dark","intimidate, moxie, anger-point",95,117,80,65,70,92,963,1.5
+darumaka,fire,"hustle, inner-focus",70,90,45,15,45,50,375,0.6
+darmanitan-standard,fire,"sheer-force, zen-mode",105,140,55,30,55,95,929,1.3
+maractus,grass,"water-absorb, chlorophyll, storm-drain",75,86,67,106,67,60,280,1.0
+dwebble,"bug, rock","sturdy, shell-armor, weak-armor",50,65,85,35,35,55,145,0.3
+crustle,"bug, rock","sturdy, shell-armor, weak-armor",70,105,125,65,75,45,2000,1.4
+scraggy,"dark, fighting","shed-skin, moxie, intimidate",50,75,70,35,70,48,118,0.6
+scrafty,"dark, fighting","shed-skin, moxie, intimidate",65,90,115,45,115,58,300,1.1
+sigilyph,"psychic, flying","wonder-skin, magic-guard, tinted-lens",72,58,80,103,80,97,140,1.4
+yamask,ghost,mummy,38,30,85,55,65,30,15,0.5
+cofagrigus,ghost,mummy,58,50,145,95,105,30,765,1.7
+tirtouga,"water, rock","solid-rock, sturdy, swift-swim",54,78,103,53,45,22,165,0.7
+carracosta,"water, rock","solid-rock, sturdy, swift-swim",74,108,133,83,65,32,810,1.2
+archen,"rock, flying",defeatist,55,112,45,74,45,70,95,0.5
+archeops,"rock, flying",defeatist,75,140,65,112,65,110,320,1.4
+trubbish,poison,"stench, sticky-hold, aftermath",50,50,62,40,62,65,310,0.6
+garbodor,poison,"stench, weak-armor, aftermath",80,95,82,60,82,75,1073,1.9
+zorua,dark,illusion,40,65,40,80,40,65,125,0.7
+zoroark,dark,illusion,60,105,60,120,60,105,811,1.6
+minccino,normal,"cute-charm, technician, skill-link",55,50,40,40,40,75,58,0.4
+cinccino,normal,"cute-charm, technician, skill-link",75,95,60,65,60,115,75,0.5
+gothita,psychic,"frisk, competitive, shadow-tag",45,30,50,55,65,45,58,0.4
+gothorita,psychic,"frisk, competitive, shadow-tag",60,45,70,75,85,55,180,0.7
+gothitelle,psychic,"frisk, competitive, shadow-tag",70,55,95,95,110,65,440,1.5
+solosis,psychic,"overcoat, magic-guard, regenerator",45,30,40,105,50,20,10,0.3
+duosion,psychic,"overcoat, magic-guard, regenerator",65,40,50,125,60,30,80,0.6
+reuniclus,psychic,"overcoat, magic-guard, regenerator",110,65,75,125,85,30,201,1.0
+ducklett,"water, flying","keen-eye, big-pecks, hydration",62,44,50,44,50,55,55,0.5
+swanna,"water, flying","keen-eye, big-pecks, hydration",75,87,63,87,63,98,242,1.3
+vanillite,ice,"ice-body, snow-cloak, weak-armor",36,50,50,65,60,44,57,0.4
+vanillish,ice,"ice-body, snow-cloak, weak-armor",51,65,65,80,75,59,410,1.1
+vanilluxe,ice,"ice-body, snow-warning, weak-armor",71,95,85,110,95,79,575,1.3
+deerling,"normal, grass","chlorophyll, sap-sipper, serene-grace",60,60,50,40,50,75,195,0.6
+sawsbuck,"normal, grass","chlorophyll, sap-sipper, serene-grace",80,100,70,60,70,95,925,1.9
+emolga,"electric, flying","static, motor-drive",55,75,60,75,60,103,50,0.4
+karrablast,bug,"swarm, shed-skin, no-guard",50,75,45,40,45,60,59,0.5
+escavalier,"bug, steel","swarm, shell-armor, overcoat",70,135,105,60,105,20,330,1.0
+foongus,"grass, poison","effect-spore, regenerator",69,55,45,55,55,15,10,0.2
+amoonguss,"grass, poison","effect-spore, regenerator",114,85,70,85,80,30,105,0.6
+frillish,"water, ghost","water-absorb, cursed-body, damp",55,40,50,65,85,40,330,1.2
+jellicent,"water, ghost","water-absorb, cursed-body, damp",100,60,70,85,105,60,1350,2.2
+alomomola,water,"healer, hydration, regenerator",165,75,80,40,45,65,316,1.2
+joltik,"bug, electric","compound-eyes, unnerve, swarm",50,47,50,57,50,65,6,0.1
+galvantula,"bug, electric","compound-eyes, unnerve, swarm",70,77,60,97,60,108,143,0.8
+ferroseed,"grass, steel",iron-barbs,44,50,91,24,86,10,188,0.6
+ferrothorn,"grass, steel","iron-barbs, anticipation",74,94,131,54,116,20,1100,1.0
+klink,steel,"plus, minus, clear-body",40,55,70,45,60,30,210,0.3
+klang,steel,"plus, minus, clear-body",60,80,95,70,85,50,510,0.6
+klinklang,steel,"plus, minus, clear-body",60,100,115,70,85,90,810,0.6
+tynamo,electric,levitate,35,55,40,45,40,60,3,0.2
+eelektrik,electric,levitate,65,85,70,75,70,40,220,1.2
+eelektross,electric,levitate,85,115,80,105,80,50,805,2.1
+elgyem,psychic,"telepathy, synchronize, analytic",55,55,55,85,55,30,90,0.5
+beheeyem,psychic,"telepathy, synchronize, analytic",75,75,75,125,95,40,345,1.0
+litwick,"ghost, fire","flash-fire, flame-body, infiltrator",50,30,55,65,55,20,31,0.3
+lampent,"ghost, fire","flash-fire, flame-body, infiltrator",60,40,60,95,60,55,130,0.6
+chandelure,"ghost, fire","flash-fire, flame-body, infiltrator",60,55,90,145,90,80,343,1.0
+axew,dragon,"rivalry, mold-breaker, unnerve",46,87,60,30,40,57,180,0.6
+fraxure,dragon,"rivalry, mold-breaker, unnerve",66,117,70,40,50,67,360,1.0
+haxorus,dragon,"rivalry, mold-breaker, unnerve",76,147,90,60,70,97,1055,1.8
+cubchoo,ice,"snow-cloak, slush-rush, rattled",55,70,40,60,40,40,85,0.5
+beartic,ice,"snow-cloak, slush-rush, swift-swim",95,130,80,70,80,50,2600,2.6
+cryogonal,ice,levitate,80,50,50,95,135,105,1480,1.1
+shelmet,bug,"hydration, shell-armor, overcoat",50,40,85,40,65,25,77,0.4
+accelgor,bug,"hydration, sticky-hold, unburden",80,70,40,100,60,145,253,0.8
+stunfisk,"ground, electric","static, limber, sand-veil",109,66,84,81,99,32,110,0.7
+mienfoo,fighting,"inner-focus, regenerator, reckless",45,85,50,55,50,65,200,0.9
+mienshao,fighting,"inner-focus, regenerator, reckless",65,125,60,95,60,105,355,1.4
+druddigon,dragon,"rough-skin, sheer-force, mold-breaker",77,120,90,60,90,48,1390,1.6
+golett,"ground, ghost","iron-fist, klutz, no-guard",59,74,50,35,50,35,920,1.0
+golurk,"ground, ghost","iron-fist, klutz, no-guard",89,124,80,55,80,55,3300,2.8
+pawniard,"dark, steel","defiant, inner-focus, pressure",45,85,70,40,40,60,102,0.5
+bisharp,"dark, steel","defiant, inner-focus, pressure",65,125,100,60,70,70,700,1.6
+bouffalant,normal,"reckless, sap-sipper, soundproof",95,110,95,40,95,55,946,1.6
+rufflet,"normal, flying","keen-eye, sheer-force, hustle",70,83,50,37,50,60,105,0.5
+braviary,"normal, flying","keen-eye, sheer-force, defiant",100,123,75,57,75,80,410,1.5
+vullaby,"dark, flying","big-pecks, overcoat, weak-armor",70,55,75,45,65,60,90,0.5
+mandibuzz,"dark, flying","big-pecks, overcoat, weak-armor",110,65,105,55,95,80,395,1.2
+heatmor,fire,"gluttony, flash-fire, white-smoke",85,97,66,105,66,65,580,1.4
+durant,"bug, steel","swarm, hustle, truant",58,109,112,48,48,109,330,0.3
+deino,"dark, dragon",hustle,52,65,50,45,50,38,173,0.8
+zweilous,"dark, dragon",hustle,72,85,70,65,70,58,500,1.4
+hydreigon,"dark, dragon",levitate,92,105,90,125,90,98,1600,1.8
+larvesta,"bug, fire","flame-body, swarm",55,85,55,50,55,60,288,1.1
+volcarona,"bug, fire","flame-body, swarm",85,60,65,135,105,100,460,1.6
+cobalion,"steel, fighting",justified,91,90,129,90,72,108,2500,2.1
+terrakion,"rock, fighting",justified,91,129,90,72,90,108,2600,1.9
+virizion,"grass, fighting",justified,91,90,72,90,129,108,2000,2.0
+tornadus-incarnate,flying,"prankster, defiant",79,115,70,125,80,111,630,1.5
+thundurus-incarnate,"electric, flying","prankster, defiant",79,115,70,125,80,111,610,1.5
+reshiram,"dragon, fire",turboblaze,100,120,100,150,120,90,3300,3.2
+zekrom,"dragon, electric",teravolt,100,150,120,120,100,90,3450,2.9
+landorus-incarnate,"ground, flying","sand-force, sheer-force",89,125,90,115,80,101,680,1.5
+kyurem,"dragon, ice",pressure,125,130,90,130,90,95,3250,3.0
+keldeo-ordinary,"water, fighting",justified,91,72,90,129,90,108,485,1.4
+meloetta-aria,"normal, psychic",serene-grace,100,77,77,128,128,90,65,0.6
+genesect,"bug, steel",download,71,120,95,120,95,99,825,1.5
+chespin,grass,"overgrow, bulletproof",56,61,65,48,45,38,90,0.4
+quilladin,grass,"overgrow, bulletproof",61,78,95,56,58,57,290,0.7
+chesnaught,"grass, fighting","overgrow, bulletproof",88,107,122,74,75,64,900,1.6
+fennekin,fire,"blaze, magician",40,45,40,62,60,60,94,0.4
+braixen,fire,"blaze, magician",59,59,58,90,70,73,145,1.0
+delphox,"fire, psychic","blaze, magician",75,69,72,114,100,104,390,1.5
+froakie,water,"torrent, protean",41,56,40,62,44,71,70,0.3
+frogadier,water,"torrent, protean",54,63,52,83,56,97,109,0.6
+greninja,"water, dark","torrent, protean",72,95,67,103,71,122,400,1.5
+bunnelby,normal,"pickup, cheek-pouch, huge-power",38,36,38,32,36,57,50,0.4
+diggersby,"normal, ground","pickup, cheek-pouch, huge-power",85,56,77,50,77,78,424,1.0
+fletchling,"normal, flying","big-pecks, gale-wings",45,50,43,40,38,62,17,0.3
+fletchinder,"fire, flying","flame-body, gale-wings",62,73,55,56,52,84,160,0.7
+talonflame,"fire, flying","flame-body, gale-wings",78,81,71,74,69,126,245,1.2
+scatterbug,bug,"shield-dust, compound-eyes, friend-guard",38,35,40,27,25,35,25,0.3
+spewpa,bug,"shed-skin, friend-guard",45,22,60,27,30,29,84,0.3
+vivillon,"bug, flying","shield-dust, compound-eyes, friend-guard",80,52,50,90,50,89,170,1.2
+litleo,"fire, normal","rivalry, unnerve, moxie",62,50,58,73,54,72,135,0.6
+pyroar,"fire, normal","rivalry, unnerve, moxie",86,68,72,109,66,106,815,1.5
+flabebe,fairy,"flower-veil, symbiosis",44,38,39,61,79,42,1,0.1
+floette,fairy,"flower-veil, symbiosis",54,45,47,75,98,52,9,0.2
+florges,fairy,"flower-veil, symbiosis",78,65,68,112,154,75,100,1.1
+skiddo,grass,"sap-sipper, grass-pelt",66,65,48,62,57,52,310,0.9
+gogoat,grass,"sap-sipper, grass-pelt",123,100,62,97,81,68,910,1.7
+pancham,fighting,"iron-fist, mold-breaker, scrappy",67,82,62,46,48,43,80,0.6
+pangoro,"fighting, dark","iron-fist, mold-breaker, scrappy",95,124,78,69,71,58,1360,2.1
+furfrou,normal,fur-coat,75,80,60,65,90,102,280,1.2
+espurr,psychic,"keen-eye, infiltrator, own-tempo",62,48,54,63,60,68,35,0.3
+meowstic-male,psychic,"keen-eye, infiltrator, prankster",74,48,76,83,81,104,85,0.6
+honedge,"steel, ghost",no-guard,45,80,100,35,37,28,20,0.8
+doublade,"steel, ghost",no-guard,59,110,150,45,49,35,45,0.8
+aegislash-shield,"steel, ghost",stance-change,60,50,140,50,140,60,530,1.7
+spritzee,fairy,"healer, aroma-veil",78,52,60,63,65,23,5,0.2
+aromatisse,fairy,"healer, aroma-veil",101,72,72,99,89,29,155,0.8
+swirlix,fairy,"sweet-veil, unburden",62,48,66,59,57,49,35,0.4
+slurpuff,fairy,"sweet-veil, unburden",82,80,86,85,75,72,50,0.8
+inkay,"dark, psychic","contrary, suction-cups, infiltrator",53,54,53,37,46,45,35,0.4
+malamar,"dark, psychic","contrary, suction-cups, infiltrator",86,92,88,68,75,73,470,1.5
+binacle,"rock, water","tough-claws, sniper, pickpocket",42,52,67,39,56,50,310,0.5
+barbaracle,"rock, water","tough-claws, sniper, pickpocket",72,105,115,54,86,68,960,1.3
+skrelp,"poison, water","poison-point, poison-touch, adaptability",50,60,60,60,60,30,73,0.5
+dragalge,"poison, dragon","poison-point, poison-touch, adaptability",65,75,90,97,123,44,815,1.8
+clauncher,water,mega-launcher,50,53,62,58,63,44,83,0.5
+clawitzer,water,mega-launcher,71,73,88,120,89,59,353,1.3
+helioptile,"electric, normal","dry-skin, sand-veil, solar-power",44,38,33,61,43,70,60,0.5
+heliolisk,"electric, normal","dry-skin, sand-veil, solar-power",62,55,52,109,94,109,210,1.0
+tyrunt,"rock, dragon","strong-jaw, sturdy",58,89,77,45,45,48,260,0.8
+tyrantrum,"rock, dragon","strong-jaw, rock-head",82,121,119,69,59,71,2700,2.5
+amaura,"rock, ice","refrigerate, snow-warning",77,59,50,67,63,46,252,1.3
+aurorus,"rock, ice","refrigerate, snow-warning",123,77,72,99,92,58,2250,2.7
+sylveon,fairy,"cute-charm, pixilate",95,65,65,110,130,60,235,1.0
+hawlucha,"fighting, flying","limber, unburden, mold-breaker",78,92,75,74,63,118,215,0.8
+dedenne,"electric, fairy","cheek-pouch, pickup, plus",67,58,57,81,67,101,22,0.2
+carbink,"rock, fairy","clear-body, sturdy",50,50,150,50,150,50,57,0.3
+goomy,dragon,"sap-sipper, hydration, gooey",45,50,35,55,75,40,28,0.3
+sliggoo,dragon,"sap-sipper, hydration, gooey",68,75,53,83,113,60,175,0.8
+goodra,dragon,"sap-sipper, hydration, gooey",90,100,70,110,150,80,1505,2.0
+klefki,"steel, fairy","prankster, magician",57,80,91,80,87,75,30,0.2
+phantump,"ghost, grass","natural-cure, frisk, harvest",43,70,48,50,60,38,70,0.4
+trevenant,"ghost, grass","natural-cure, frisk, harvest",85,110,76,65,82,56,710,1.5
+pumpkaboo-average,"ghost, grass","pickup, frisk, insomnia",49,66,70,44,55,51,50,0.4
+gourgeist-average,"ghost, grass","pickup, frisk, insomnia",65,90,122,58,75,84,125,0.9
+bergmite,ice,"own-tempo, ice-body, sturdy",55,69,85,32,35,28,995,1.0
+avalugg,ice,"own-tempo, ice-body, sturdy",95,117,184,44,46,28,5050,2.0
+noibat,"flying, dragon","frisk, infiltrator, telepathy",40,30,35,45,40,55,80,0.5
+noivern,"flying, dragon","frisk, infiltrator, telepathy",85,70,80,97,80,123,850,1.5
+xerneas,fairy,fairy-aura,126,131,95,131,98,99,2150,3.0
+yveltal,"dark, flying",dark-aura,126,131,95,131,98,99,2030,5.8
+diancie,"rock, fairy",clear-body,50,100,150,100,150,50,88,0.7
+hoopa,"psychic, ghost",magician,80,110,60,150,130,70,90,0.5
+volcanion,"fire, water",water-absorb,80,110,120,130,90,70,1950,1.7
+rowlet,"grass, flying","overgrow, long-reach",68,55,55,50,50,42,15,0.3
+dartrix,"grass, flying","overgrow, long-reach",78,75,75,70,70,52,160,0.7
+decidueye,"grass, ghost","overgrow, long-reach",78,107,75,100,100,70,366,1.6
+litten,fire,"blaze, intimidate",45,65,40,60,40,70,43,0.4
+torracat,fire,"blaze, intimidate",65,85,50,80,50,90,250,0.7
+incineroar,"fire, dark","blaze, intimidate",95,115,90,80,90,60,830,1.8
+popplio,water,"torrent, liquid-voice",50,54,54,66,56,40,75,0.4
+brionne,water,"torrent, liquid-voice",60,69,69,91,81,50,175,0.6
+primarina,"water, fairy","torrent, liquid-voice",80,74,74,126,116,60,440,1.8
+pikipek,"normal, flying","keen-eye, skill-link, pickup",35,75,30,30,30,65,12,0.3
+trumbeak,"normal, flying","keen-eye, skill-link, pickup",55,85,50,40,50,75,148,0.6
+toucannon,"normal, flying","keen-eye, skill-link, sheer-force",80,120,75,75,75,60,260,1.1
+yungoos,normal,"stakeout, strong-jaw, adaptability",48,70,30,30,30,45,60,0.4
+gumshoos,normal,"stakeout, strong-jaw, adaptability",88,110,60,55,60,45,142,0.7
+grubbin,bug,swarm,47,62,45,55,45,46,44,0.4
+charjabug,"bug, electric",battery,57,82,95,55,75,36,105,0.5
+vikavolt,"bug, electric",levitate,77,70,90,145,75,43,450,1.5
+crabrawler,fighting,"hyper-cutter, iron-fist, anger-point",47,82,57,42,47,63,70,0.6
+crabominable,"fighting, ice","hyper-cutter, iron-fist, anger-point",97,132,77,62,67,43,1800,1.7
+oricorio-baile,"fire, flying",dancer,75,70,70,98,70,93,34,0.6
+cutiefly,"bug, fairy","honey-gather, shield-dust, sweet-veil",40,45,40,55,40,84,2,0.1
+ribombee,"bug, fairy","honey-gather, shield-dust, sweet-veil",60,55,60,95,70,124,5,0.2
+rockruff,rock,"keen-eye, vital-spirit, steadfast",45,65,40,30,40,60,92,0.5
+lycanroc-midday,rock,"keen-eye, sand-rush, steadfast",75,115,65,55,65,112,250,0.8
+wishiwashi-solo,water,schooling,45,20,20,25,25,40,3,0.2
+mareanie,"poison, water","merciless, limber, regenerator",50,53,62,43,52,45,80,0.4
+toxapex,"poison, water","merciless, limber, regenerator",50,63,152,53,142,35,145,0.7
+mudbray,ground,"own-tempo, stamina, inner-focus",70,100,70,45,55,45,1100,1.0
+mudsdale,ground,"own-tempo, stamina, inner-focus",100,125,100,55,85,35,9200,2.5
+dewpider,"water, bug","water-bubble, water-absorb",38,40,52,40,72,27,40,0.3
+araquanid,"water, bug","water-bubble, water-absorb",68,70,92,50,132,42,820,1.8
+fomantis,grass,"leaf-guard, contrary",40,55,35,50,35,35,15,0.3
+lurantis,grass,"leaf-guard, contrary",70,105,90,80,90,45,185,0.9
+morelull,"grass, fairy","illuminate, effect-spore, rain-dish",40,35,55,65,75,15,15,0.2
+shiinotic,"grass, fairy","illuminate, effect-spore, rain-dish",60,45,80,90,100,30,115,1.0
+salandit,"poison, fire","corrosion, oblivious",48,44,40,71,40,77,48,0.6
+salazzle,"poison, fire","corrosion, oblivious",68,64,60,111,60,117,222,1.2
+stufful,"normal, fighting","fluffy, klutz, cute-charm",70,75,50,45,50,50,68,0.5
+bewear,"normal, fighting","fluffy, klutz, unnerve",120,125,80,55,60,60,1350,2.1
+bounsweet,grass,"leaf-guard, oblivious, sweet-veil",42,30,38,30,38,32,32,0.3
+steenee,grass,"leaf-guard, oblivious, sweet-veil",52,40,48,40,48,62,82,0.7
+tsareena,grass,"leaf-guard, queenly-majesty, sweet-veil",72,120,98,50,98,72,214,1.2
+comfey,fairy,"flower-veil, triage, natural-cure",51,52,90,82,110,100,3,0.1
+oranguru,"normal, psychic","inner-focus, telepathy, symbiosis",90,60,80,90,110,60,760,1.5
+passimian,fighting,"receiver, defiant",100,120,90,40,60,80,828,2.0
+wimpod,"bug, water",wimp-out,25,35,40,20,30,80,120,0.5
+golisopod,"bug, water",emergency-exit,75,125,140,60,90,40,1080,2.0
+sandygast,"ghost, ground","water-compaction, sand-veil",55,55,80,70,45,15,700,0.5
+palossand,"ghost, ground","water-compaction, sand-veil",85,75,110,100,75,35,2500,1.3
+pyukumuku,water,"innards-out, unaware",55,60,130,30,130,5,12,0.3
+type-null,normal,battle-armor,95,95,95,95,95,59,1205,1.9
+silvally,normal,rks-system,95,95,95,95,95,95,1005,2.3
+minior-red-meteor,"rock, flying",shields-down,60,60,100,60,100,60,400,0.3
+komala,normal,comatose,65,115,65,75,95,65,199,0.4
+turtonator,"fire, dragon",shell-armor,60,78,135,91,85,36,2120,2.0
+togedemaru,"electric, steel","iron-barbs, lightning-rod, sturdy",65,98,63,40,73,96,33,0.3
+mimikyu-disguised,"ghost, fairy",disguise,55,90,80,50,105,96,7,0.2
+bruxish,"water, psychic","dazzling, strong-jaw, wonder-skin",68,105,70,70,70,92,190,0.9
+drampa,"normal, dragon","berserk, sap-sipper, cloud-nine",78,60,85,135,91,36,1850,3.0
+dhelmise,"ghost, grass",steelworker,70,131,100,86,90,40,2100,3.9
+jangmo-o,dragon,"bulletproof, soundproof, overcoat",45,55,65,45,45,45,297,0.6
+hakamo-o,"dragon, fighting","bulletproof, soundproof, overcoat",55,75,90,65,70,65,470,1.2
+kommo-o,"dragon, fighting","bulletproof, soundproof, overcoat",75,110,125,100,105,85,782,1.6
+tapu-koko,"electric, fairy","electric-surge, telepathy",70,115,85,95,75,130,205,1.8
+tapu-lele,"psychic, fairy","psychic-surge, telepathy",70,85,75,130,115,95,186,1.2
+tapu-bulu,"grass, fairy","grassy-surge, telepathy",70,130,115,85,95,75,455,1.9
+tapu-fini,"water, fairy","misty-surge, telepathy",70,75,115,95,130,85,212,1.3
+cosmog,psychic,unaware,43,29,31,29,31,37,1,0.2
+cosmoem,psychic,sturdy,43,29,131,29,131,37,9999,0.1
+solgaleo,"psychic, steel",full-metal-body,137,137,107,113,89,97,2300,3.4
+lunala,"psychic, ghost",shadow-shield,137,113,89,137,107,97,1200,4.0
+nihilego,"rock, poison",beast-boost,109,53,47,127,131,103,555,1.2
+buzzwole,"bug, fighting",beast-boost,107,139,139,53,53,79,3336,2.4
+pheromosa,"bug, fighting",beast-boost,71,137,37,137,37,151,250,1.8
+xurkitree,electric,beast-boost,83,89,71,173,71,83,1000,3.8
+celesteela,"steel, flying",beast-boost,97,101,103,107,101,61,9999,9.2
+kartana,"grass, steel",beast-boost,59,181,131,59,31,109,1,0.3
+guzzlord,"dark, dragon",beast-boost,223,101,53,97,53,43,8880,5.5
+necrozma,psychic,prism-armor,97,107,101,127,89,79,2300,2.4
+magearna,"steel, fairy",soul-heart,80,95,115,130,115,65,805,1.0
+marshadow,"fighting, ghost",technician,90,125,80,90,90,125,222,0.7
+poipole,poison,beast-boost,67,73,67,73,67,73,18,0.6
+naganadel,"poison, dragon",beast-boost,73,73,73,127,73,121,1500,3.6
+stakataka,"rock, steel",beast-boost,61,131,211,53,101,13,8200,5.5
+blacephalon,"fire, ghost",beast-boost,53,127,53,151,79,107,130,1.8
+zeraora,electric,volt-absorb,88,112,75,102,80,143,445,1.5
+meltan,steel,magnet-pull,46,65,65,55,35,34,80,0.2
+melmetal,steel,iron-fist,135,143,143,80,65,34,8000,2.5
+grookey,grass,"overgrow, grassy-surge",50,65,50,40,40,65,50,0.3
+thwackey,grass,"overgrow, grassy-surge",70,85,70,55,60,80,140,0.7
+rillaboom,grass,"overgrow, grassy-surge",100,125,90,60,70,85,900,2.1
+scorbunny,fire,"blaze, libero",50,71,40,40,40,69,45,0.3
+raboot,fire,"blaze, libero",65,86,60,55,60,94,90,0.6
+cinderace,fire,"blaze, libero",80,116,75,65,75,119,330,1.4
+sobble,water,"torrent, sniper",50,40,40,70,40,70,40,0.3
+drizzile,water,"torrent, sniper",65,60,55,95,55,90,115,0.7
+inteleon,water,"torrent, sniper",70,85,65,125,65,120,452,1.9
+skwovet,normal,"cheek-pouch, gluttony",70,55,55,35,35,25,25,0.3
+greedent,normal,"cheek-pouch, gluttony",120,95,95,55,75,20,60,0.6
+rookidee,flying,"keen-eye, unnerve, big-pecks",38,47,35,33,35,57,18,0.2
+corvisquire,flying,"keen-eye, unnerve, big-pecks",68,67,55,43,55,77,160,0.8
+corviknight,"flying, steel","pressure, unnerve, mirror-armor",98,87,105,53,85,67,750,2.2
+blipbug,bug,"swarm, compound-eyes, telepathy",25,20,20,25,45,45,80,0.4
+dottler,"bug, psychic","swarm, compound-eyes, telepathy",50,35,80,50,90,30,195,0.4
+orbeetle,"bug, psychic","swarm, frisk, telepathy",60,45,110,80,120,90,408,0.4
+nickit,dark,"run-away, unburden, stakeout",40,28,28,47,52,50,89,0.6
+thievul,dark,"run-away, unburden, stakeout",70,58,58,87,92,90,199,1.2
+gossifleur,grass,"cotton-down, regenerator, effect-spore",40,40,60,40,60,10,22,0.4
+eldegoss,grass,"cotton-down, regenerator, effect-spore",60,50,90,80,120,60,25,0.5
+wooloo,normal,"fluffy, run-away, bulletproof",42,40,55,40,45,48,60,0.6
+dubwool,normal,"fluffy, steadfast, bulletproof",72,80,100,60,90,88,430,1.3
+chewtle,water,"strong-jaw, shell-armor, swift-swim",50,64,50,38,38,44,85,0.3
+drednaw,"water, rock","strong-jaw, shell-armor, swift-swim",90,115,90,48,68,74,1155,1.0
+yamper,electric,"ball-fetch, rattled",59,45,50,40,50,26,135,0.3
+boltund,electric,"strong-jaw, competitive",69,90,60,90,60,121,340,1.0
+rolycoly,rock,"steam-engine, heatproof, flash-fire",30,40,50,40,50,30,120,0.3
+carkol,"rock, fire","steam-engine, flame-body, flash-fire",80,60,90,60,70,50,780,1.1
+coalossal,"rock, fire","steam-engine, flame-body, flash-fire",110,80,120,80,90,30,3105,2.8
+applin,"grass, dragon","ripen, gluttony, bulletproof",40,40,80,40,40,20,5,0.2
+flapple,"grass, dragon","ripen, gluttony, hustle",70,110,80,95,60,70,10,0.3
+appletun,"grass, dragon","ripen, gluttony, thick-fat",110,85,80,100,80,30,130,0.4
+silicobra,ground,"sand-spit, shed-skin, sand-veil",52,57,75,35,50,46,76,2.2
+sandaconda,ground,"sand-spit, shed-skin, sand-veil",72,107,125,65,70,71,655,3.8
+cramorant,"flying, water",gulp-missile,70,85,55,85,95,85,180,0.8
+arrokuda,water,"swift-swim, propeller-tail",41,63,40,40,30,66,10,0.5
+barraskewda,water,"swift-swim, propeller-tail",61,123,60,60,50,136,300,1.3
+toxel,"electric, poison","rattled, static, klutz",40,38,35,54,35,40,110,0.4
+toxtricity-amped,"electric, poison","punk-rock, plus, technician",75,98,70,114,70,75,400,1.6
+sizzlipede,"fire, bug","flash-fire, white-smoke, flame-body",50,65,45,50,50,45,10,0.7
+centiskorch,"fire, bug","flash-fire, white-smoke, flame-body",100,115,65,90,90,65,1200,3.0
+clobbopus,fighting,"limber, technician",50,68,60,50,50,32,40,0.6
+grapploct,fighting,"limber, technician",80,118,90,70,80,42,390,1.6
+sinistea,ghost,"weak-armor, cursed-body",40,45,45,74,54,50,2,0.1
+polteageist,ghost,"weak-armor, cursed-body",60,65,65,134,114,70,4,0.2
+hatenna,psychic,"healer, anticipation, magic-bounce",42,30,45,56,53,39,34,0.4
+hattrem,psychic,"healer, anticipation, magic-bounce",57,40,65,86,73,49,48,0.6
+hatterene,"psychic, fairy","healer, anticipation, magic-bounce",57,90,95,136,103,29,51,2.1
+impidimp,"dark, fairy","prankster, frisk, pickpocket",45,45,30,55,40,50,55,0.4
+morgrem,"dark, fairy","prankster, frisk, pickpocket",65,60,45,75,55,70,125,0.8
+grimmsnarl,"dark, fairy","prankster, frisk, pickpocket",95,120,65,95,75,60,610,1.5
+obstagoon,"dark, normal","reckless, guts, defiant",93,90,101,60,81,95,460,1.6
+perrserker,steel,"battle-armor, tough-claws, steely-spirit",70,110,100,50,60,50,280,0.8
+cursola,ghost,"weak-armor, perish-body",60,95,50,145,130,30,4,1.0
+sirfetchd,fighting,"steadfast, scrappy",62,135,95,68,82,65,1170,0.8
+mr-rime,"ice, psychic","tangled-feet, screen-cleaner, ice-body",80,85,75,110,100,70,582,1.5
+runerigus,"ground, ghost",wandering-spirit,58,95,145,50,105,30,666,1.6
+milcery,fairy,"sweet-veil, aroma-veil",45,40,40,50,61,34,3,0.2
+alcremie,fairy,"sweet-veil, aroma-veil",65,60,75,110,121,64,5,0.3
+falinks,fighting,"battle-armor, defiant",65,100,100,70,60,75,620,3.0
+pincurchin,electric,"lightning-rod, electric-surge",48,101,95,91,85,15,10,0.3
+snom,"ice, bug","shield-dust, ice-scales",30,25,35,45,30,20,38,0.3
+frosmoth,"ice, bug","shield-dust, ice-scales",70,65,60,125,90,65,420,1.3
+stonjourner,rock,power-spot,100,125,135,20,20,70,5200,2.5
+eiscue-ice,ice,ice-face,75,80,110,65,90,50,890,1.4
+indeedee-male,"psychic, normal","inner-focus, synchronize, psychic-surge",60,65,55,105,95,95,280,0.9
+morpeko-full-belly,"electric, dark",hunger-switch,58,95,58,70,58,97,30,0.3
+cufant,steel,"sheer-force, heavy-metal",72,80,49,40,49,40,1000,1.2
+copperajah,steel,"sheer-force, heavy-metal",122,130,69,80,69,30,6500,3.0
+dracozolt,"electric, dragon","volt-absorb, hustle, sand-rush",90,100,90,80,70,75,1900,1.8
+arctozolt,"electric, ice","volt-absorb, static, slush-rush",90,100,90,90,80,55,1500,2.3
+dracovish,"water, dragon","water-absorb, strong-jaw, sand-rush",90,90,100,70,80,75,2150,2.3
+arctovish,"water, ice","water-absorb, ice-body, slush-rush",90,90,100,80,90,55,1750,2.0
+duraludon,"steel, dragon","light-metal, heavy-metal, stalwart",70,95,115,120,50,85,400,1.8
+dreepy,"dragon, ghost","clear-body, infiltrator, cursed-body",28,60,30,40,30,82,20,0.5
+drakloak,"dragon, ghost","clear-body, infiltrator, cursed-body",68,80,50,60,50,102,110,1.4
+dragapult,"dragon, ghost","clear-body, infiltrator, cursed-body",88,120,75,100,75,142,500,3.0
+zacian,fairy,intrepid-sword,92,120,115,80,115,138,1100,2.8
+zamazenta,fighting,dauntless-shield,92,120,115,80,115,138,2100,2.9
+eternatus,"poison, dragon",pressure,140,85,95,145,95,130,9500,20.0
+kubfu,fighting,inner-focus,60,90,60,53,50,72,120,0.6
+urshifu-single-strike,"fighting, dark",unseen-fist,100,130,100,63,60,97,1050,1.9
+zarude,"dark, grass",leaf-guard,105,120,105,70,95,105,700,1.8
+regieleki,electric,transistor,80,100,50,100,50,200,1450,1.2
+regidrago,dragon,dragons-maw,200,100,50,100,50,80,2000,2.1
+glastrier,ice,chilling-neigh,100,145,130,65,110,30,8000,2.2
+spectrier,ghost,grim-neigh,100,65,60,145,80,130,445,2.0
+calyrex,"psychic, grass",unnerve,100,80,80,80,80,80,77,1.1
+wyrdeer,"normal, psychic","intimidate, frisk, sap-sipper",103,105,72,105,75,65,951,1.8
+kleavor,"bug, rock","swarm, sheer-force, sharpness",70,135,95,45,70,85,890,1.8
+ursaluna,"ground, normal","guts, bulletproof, unnerve",130,140,105,45,80,50,2900,2.4
+basculegion-male,"water, ghost","swift-swim, adaptability, mold-breaker",120,112,65,80,75,78,1100,3.0
+sneasler,"fighting, poison","pressure, unburden, poison-touch",80,130,60,40,80,120,430,1.3
+overqwil,"dark, poison","poison-point, swift-swim, intimidate",85,115,95,65,65,85,605,2.5
+enamorus-incarnate,"fairy, flying","cute-charm, contrary",74,115,70,135,80,106,480,1.6
+sprigatito,grass,"overgrow, protean",40,61,54,45,45,65,41,0.4
+floragato,grass,"overgrow, protean",61,80,63,60,63,83,122,0.9
+meowscarada,"grass, dark","overgrow, protean",76,110,70,81,70,123,312,1.5
+fuecoco,fire,"blaze, unaware",67,45,59,63,40,36,98,0.4
+crocalor,fire,"blaze, unaware",81,55,78,90,58,49,307,1.0
+skeledirge,"fire, ghost","blaze, unaware",104,75,100,110,75,66,3265,1.6
+quaxly,water,"torrent, moxie",55,65,45,50,45,50,61,0.5
+quaxwell,water,"torrent, moxie",70,85,65,65,60,65,215,1.2
+quaquaval,"water, fighting","torrent, moxie",85,120,80,85,75,85,619,1.8
+lechonk,normal,"aroma-veil, gluttony, thick-fat",54,45,40,35,45,35,102,0.5
+oinkologne-male,normal,"lingering-aroma, gluttony, thick-fat",110,100,75,59,80,65,1200,1.0
+tarountula,bug,"insomnia, stakeout",35,41,45,29,40,20,40,0.3
+spidops,bug,"insomnia, stakeout",60,79,92,52,86,35,165,1.0
+nymble,bug,"swarm, tinted-lens",33,46,40,21,25,45,10,0.2
+lokix,"bug, dark","swarm, tinted-lens",71,102,78,52,55,92,175,1.0
+pawmi,electric,"static, natural-cure, iron-fist",45,50,20,40,25,60,25,0.3
+pawmo,"electric, fighting","volt-absorb, natural-cure, iron-fist",60,75,40,50,40,85,65,0.4
+pawmot,"electric, fighting","volt-absorb, natural-cure, iron-fist",70,115,70,70,60,105,410,0.9
+tandemaus,normal,"run-away, pickup, own-tempo",50,50,45,40,45,75,18,0.3
+maushold-family-of-four,normal,"friend-guard, cheek-pouch, technician",74,75,70,65,75,111,23,0.3
+fidough,fairy,"own-tempo, klutz",37,55,70,30,55,65,109,0.3
+dachsbun,fairy,"well-baked-body, aroma-veil",57,80,115,50,80,95,149,0.5
+smoliv,"grass, normal","early-bird, harvest",41,35,45,58,51,30,65,0.3
+dolliv,"grass, normal","early-bird, harvest",52,53,60,78,78,33,119,0.6
+arboliva,"grass, normal","seed-sower, harvest",78,69,90,125,109,39,482,1.4
+squawkabilly-green-plumage,"normal, flying","intimidate, hustle, guts",82,96,51,45,51,92,24,0.6
+nacli,rock,"purifying-salt, sturdy, clear-body",55,55,75,35,35,25,160,0.4
+naclstack,rock,"purifying-salt, sturdy, clear-body",60,60,100,35,65,35,1050,0.6
+garganacl,rock,"purifying-salt, sturdy, clear-body",100,100,130,45,90,35,2400,2.3
+charcadet,fire,"flash-fire, flame-body",40,50,40,50,40,35,105,0.6
+armarouge,"fire, psychic","flash-fire, weak-armor",85,60,100,125,80,75,850,1.5
+ceruledge,"fire, ghost","flash-fire, weak-armor",75,125,80,60,100,85,620,1.6
+tadbulb,electric,"own-tempo, static, damp",61,31,41,59,35,45,4,0.3
+bellibolt,electric,"electromorphosis, static, damp",109,64,91,103,83,45,1130,1.2
+wattrel,"electric, flying","wind-power, volt-absorb, competitive",40,40,35,55,40,70,36,0.4
+kilowattrel,"electric, flying","wind-power, volt-absorb, competitive",70,70,60,105,60,125,386,1.4
+maschiff,dark,"intimidate, run-away, stakeout",60,78,60,40,51,51,160,0.5
+mabosstiff,dark,"intimidate, guard-dog, stakeout",80,120,90,60,70,85,610,1.1
+shroodle,"poison, normal","unburden, pickpocket, prankster",40,65,35,40,35,75,7,0.2
+grafaiai,"poison, normal","unburden, poison-touch, prankster",63,95,65,80,72,110,272,0.7
+bramblin,"grass, ghost","wind-rider, infiltrator",40,65,30,45,35,60,6,0.6
+brambleghast,"grass, ghost","wind-rider, infiltrator",55,115,70,80,70,90,60,1.2
+toedscool,"ground, grass","mycelium-might, mycelium-might",40,40,35,50,100,70,330,0.9
+toedscruel,"ground, grass","mycelium-might, mycelium-might",80,70,65,80,120,100,580,1.9
+klawf,rock,"anger-shell, shell-armor, regenerator",70,100,115,35,55,75,790,1.3
+capsakid,grass,"chlorophyll, insomnia, klutz",50,62,40,62,40,50,30,0.3
+scovillain,"grass, fire","chlorophyll, insomnia, moody",65,108,65,108,65,75,150,0.9
+rellor,bug,"compound-eyes, shed-skin",41,50,60,31,58,30,10,0.2
+rabsca,"bug, psychic","synchronize, telepathy",75,50,85,115,100,45,35,0.3
+flittle,psychic,"anticipation, frisk, speed-boost",30,35,30,55,30,75,15,0.2
+espathra,psychic,"opportunist, frisk, speed-boost",95,60,60,101,60,105,900,1.9
+tinkatink,"fairy, steel","mold-breaker, own-tempo, pickpocket",50,45,45,35,64,58,89,0.4
+tinkatuff,"fairy, steel","mold-breaker, own-tempo, pickpocket",65,55,55,45,82,78,591,0.7
+tinkaton,"fairy, steel","mold-breaker, own-tempo, pickpocket",85,75,77,70,105,94,1128,0.7
+wiglett,water,"gooey, rattled, sand-veil",10,55,25,35,25,95,18,1.2
+wugtrio,water,"gooey, rattled, sand-veil",35,100,50,50,70,120,54,1.2
+bombirdier,"flying, dark","big-pecks, keen-eye, rocky-payload",70,103,85,60,85,82,429,1.5
+finizen,water,"water-veil, water-veil",70,45,40,45,40,75,602,1.3
+palafin-zero,water,"zero-to-hero, zero-to-hero",100,70,72,53,62,100,602,1.3
+varoom,"steel, poison","overcoat, slow-start",45,70,63,30,45,47,350,1.0
+revavroom,"steel, poison","overcoat, filter",80,119,90,54,67,90,1200,1.8
+cyclizar,"dragon, normal","shed-skin, regenerator",70,95,65,85,65,121,630,1.6
+orthworm,steel,"earth-eater, sand-veil",70,85,145,60,55,65,3100,2.5
+glimmet,"rock, poison","toxic-debris, corrosion",48,35,42,105,60,60,80,0.7
+glimmora,"rock, poison","toxic-debris, corrosion",83,55,90,130,81,86,450,1.5
+greavard,ghost,"pickup, fluffy",50,61,60,30,55,34,350,0.6
+houndstone,ghost,"sand-rush, fluffy",72,101,100,50,97,68,150,2.0
+flamigo,"flying, fighting","scrappy, tangled-feet, costar",82,115,74,75,64,90,370,1.6
+cetoddle,ice,"thick-fat, snow-cloak, sheer-force",108,68,45,30,40,43,450,1.2
+cetitan,ice,"thick-fat, slush-rush, sheer-force",170,113,65,45,55,73,7000,4.5
+veluza,"water, psychic","mold-breaker, sharpness",90,102,73,78,65,70,900,2.5
+dondozo,water,"unaware, oblivious, water-veil",150,100,115,65,65,35,2200,12.0
+tatsugiri-curly,"dragon, water","commander, storm-drain",68,50,60,120,95,82,80,0.3
+annihilape,"fighting, ghost","vital-spirit, inner-focus, defiant",110,115,80,50,90,90,560,1.2
+clodsire,"poison, ground","poison-point, water-absorb, unaware",130,75,60,45,100,20,2230,1.8
+farigiraf,"normal, psychic","cud-chew, armor-tail, sap-sipper",120,90,70,110,70,60,1600,3.2
+dudunsparce-two-segment,normal,"serene-grace, run-away, rattled",125,100,80,85,75,55,392,3.6
+kingambit,"dark, steel","defiant, supreme-overlord, pressure",100,135,120,60,85,50,1200,2.0
+great-tusk,"ground, fighting",protosynthesis,115,131,131,53,53,87,3200,2.2
+scream-tail,"fairy, psychic",protosynthesis,115,65,99,65,115,111,80,1.2
+brute-bonnet,"grass, dark",protosynthesis,111,127,99,79,99,55,210,1.2
+flutter-mane,"ghost, fairy",protosynthesis,55,55,55,135,135,135,40,1.4
+slither-wing,"bug, fighting",protosynthesis,85,135,79,85,105,81,920,3.2
+sandy-shocks,"electric, ground",protosynthesis,85,81,97,121,85,101,600,2.3
+iron-treads,"ground, steel",quark-drive,90,112,120,72,70,106,2400,0.9
+iron-bundle,"ice, water",quark-drive,56,80,114,124,60,136,110,0.6
+iron-hands,"fighting, electric",quark-drive,154,140,108,50,68,50,3807,1.8
+iron-jugulis,"dark, flying",quark-drive,94,80,86,122,80,108,1110,1.3
+iron-moth,"fire, poison",quark-drive,80,70,60,140,110,110,360,1.2
+iron-thorns,"rock, electric",quark-drive,100,134,110,70,84,72,3030,1.6
+frigibax,"dragon, ice","thermal-exchange, ice-body",65,75,45,35,45,55,170,0.5
+arctibax,"dragon, ice","thermal-exchange, ice-body",90,95,66,45,65,62,300,0.8
+baxcalibur,"dragon, ice","thermal-exchange, ice-body",115,145,92,75,86,87,2100,2.1
+gimmighoul,ghost,rattled,45,30,70,75,70,10,50,0.3
+gholdengo,"steel, ghost",good-as-gold,87,60,95,133,91,84,300,1.2
+wo-chien,"dark, grass",tablets-of-ruin,85,85,100,95,135,70,742,1.5
+chien-pao,"dark, ice",sword-of-ruin,80,120,80,90,65,135,1522,1.9
+ting-lu,"dark, ground",vessel-of-ruin,155,110,125,55,80,45,6997,2.7
+chi-yu,"dark, fire",beads-of-ruin,55,80,80,135,120,100,49,0.4
+roaring-moon,"dragon, dark",protosynthesis,105,139,71,55,101,119,3800,2.0
+iron-valiant,"fairy, fighting",quark-drive,74,130,90,120,60,116,350,1.4
+koraidon,"fighting, dragon",orichalcum-pulse,100,135,115,85,100,135,3030,2.5
+miraidon,"electric, dragon",hadron-engine,100,85,100,135,115,135,2400,3.5
+walking-wake,"water, dragon",protosynthesis,99,83,91,125,83,109,2800,3.5
+iron-leaves,"grass, psychic",quark-drive,90,130,88,70,108,104,1250,1.5
+dipplin,"grass, dragon","supersweet-syrup, gluttony, sticky-hold",80,80,110,95,80,40,97,0.4
+poltchageist,"grass, ghost","hospitality, heatproof",40,45,45,74,54,50,11,0.1
+sinistcha,"grass, ghost","hospitality, heatproof",71,60,106,121,80,70,22,0.2
+okidogi,"poison, fighting","toxic-chain, guard-dog",88,128,115,58,86,80,922,1.8
+munkidori,"poison, psychic","toxic-chain, frisk",88,75,66,130,90,106,122,1.0
+fezandipiti,"poison, fairy","toxic-chain, technician",88,91,82,70,125,99,301,1.4
+ogerpon,grass,defiant,80,120,84,60,96,110,398,1.2
+archaludon,"steel, dragon","stamina, sturdy, stalwart",90,105,130,125,65,85,600,2.0
+hydrapple,"grass, dragon","supersweet-syrup, regenerator, sticky-hold",106,80,110,120,80,44,930,1.8
+gouging-fire,"fire, dragon",protosynthesis,105,115,121,65,93,91,5900,3.5
+raging-bolt,"electric, dragon",protosynthesis,125,73,91,137,89,75,4800,5.2
+iron-boulder,"rock, psychic",quark-drive,90,120,80,68,108,124,1625,1.5
+iron-crown,"steel, psychic",quark-drive,90,72,100,122,108,98,1560,1.6
+terapagos,normal,tera-shift,90,65,85,65,85,60,65,0.2
+pecharunt,"poison, ghost",poison-puppeteer,88,88,160,88,88,88,3,0.3
+deoxys-attack,psychic,pressure,50,180,20,180,20,150,608,1.7
+deoxys-defense,psychic,pressure,50,70,160,70,160,90,608,1.7
+deoxys-speed,psychic,pressure,50,95,90,95,90,180,608,1.7
+wormadam-sandy,"bug, ground","anticipation, overcoat",60,79,105,59,85,36,65,0.5
+wormadam-trash,"bug, steel","anticipation, overcoat",60,69,95,69,95,36,65,0.5
+shaymin-sky,"grass, flying",serene-grace,100,103,75,120,75,127,52,0.4
+giratina-origin,"ghost, dragon",levitate,150,120,100,120,100,90,6500,6.9
+rotom-heat,"electric, fire",levitate,50,65,107,105,107,86,3,0.3
+rotom-wash,"electric, water",levitate,50,65,107,105,107,86,3,0.3
+rotom-frost,"electric, ice",levitate,50,65,107,105,107,86,3,0.3
+rotom-fan,"electric, flying",levitate,50,65,107,105,107,86,3,0.3
+rotom-mow,"electric, grass",levitate,50,65,107,105,107,86,3,0.3
+castform-sunny,fire,forecast,70,70,70,70,70,70,8,0.3
+castform-rainy,water,forecast,70,70,70,70,70,70,8,0.3
+castform-snowy,ice,forecast,70,70,70,70,70,70,8,0.3
+basculin-blue-striped,water,"rock-head, adaptability, mold-breaker",70,92,65,80,55,98,180,1.0
+darmanitan-zen,"fire, psychic","sheer-force, zen-mode",105,30,105,140,105,55,929,1.3
+meloetta-pirouette,"normal, fighting",serene-grace,100,128,90,77,77,128,65,0.6
+tornadus-therian,flying,regenerator,79,100,80,110,90,121,630,1.4
+thundurus-therian,"electric, flying",volt-absorb,79,105,70,145,80,101,610,3.0
+landorus-therian,"ground, flying",intimidate,89,145,90,105,80,91,680,1.3
+kyurem-black,"dragon, ice",teravolt,125,170,100,120,90,95,3250,3.3
+kyurem-white,"dragon, ice",turboblaze,125,120,90,170,100,95,3250,3.6
+keldeo-resolute,"water, fighting",justified,91,72,90,129,90,108,485,1.4
+meowstic-female,psychic,"keen-eye, infiltrator, competitive",74,48,76,83,81,104,85,0.6
+aegislash-blade,"steel, ghost",stance-change,60,140,50,140,50,60,530,1.7
+pumpkaboo-small,"ghost, grass","pickup, frisk, insomnia",44,66,70,44,55,56,35,0.3
+pumpkaboo-large,"ghost, grass","pickup, frisk, insomnia",54,66,70,44,55,46,75,0.5
+pumpkaboo-super,"ghost, grass","pickup, frisk, insomnia",59,66,70,44,55,41,150,0.8
+gourgeist-small,"ghost, grass","pickup, frisk, insomnia",55,85,122,58,75,99,95,0.7
+gourgeist-large,"ghost, grass","pickup, frisk, insomnia",75,95,122,58,75,69,140,1.1
+gourgeist-super,"ghost, grass","pickup, frisk, insomnia",85,100,122,58,75,54,390,1.7
+venusaur-mega,"grass, poison",thick-fat,80,100,123,122,120,80,1555,2.4
+charizard-mega-x,"fire, dragon",tough-claws,78,130,111,130,85,100,1105,1.7
+charizard-mega-y,"fire, flying",drought,78,104,78,159,115,100,1005,1.7
+blastoise-mega,water,mega-launcher,79,103,120,135,115,78,1011,1.6
+alakazam-mega,psychic,trace,55,50,65,175,105,150,480,1.2
+gengar-mega,"ghost, poison",shadow-tag,60,65,80,170,95,130,405,1.4
+kangaskhan-mega,normal,parental-bond,105,125,100,60,100,100,1000,2.2
+pinsir-mega,"bug, flying",aerilate,65,155,120,65,90,105,590,1.7
+gyarados-mega,"water, dark",mold-breaker,95,155,109,70,130,81,3050,6.5
+aerodactyl-mega,"rock, flying",tough-claws,80,135,85,70,95,150,790,2.1
+mewtwo-mega-x,"psychic, fighting",steadfast,106,190,100,154,100,130,1270,2.3
+mewtwo-mega-y,psychic,insomnia,106,150,70,194,120,140,330,1.5
+ampharos-mega,"electric, dragon",mold-breaker,90,95,105,165,110,45,615,1.4
+scizor-mega,"bug, steel",technician,70,150,140,65,100,75,1250,2.0
+heracross-mega,"bug, fighting",skill-link,80,185,115,40,105,75,625,1.7
+houndoom-mega,"dark, fire",solar-power,75,90,90,140,90,115,495,1.9
+tyranitar-mega,"rock, dark",sand-stream,100,164,150,95,120,71,2550,2.5
+blaziken-mega,"fire, fighting",speed-boost,80,160,80,130,80,100,520,1.9
+gardevoir-mega,"psychic, fairy",pixilate,68,85,65,165,135,100,484,1.6
+mawile-mega,"steel, fairy",huge-power,50,105,125,55,95,50,235,1.0
+aggron-mega,steel,filter,70,140,230,60,80,50,3950,2.2
+medicham-mega,"fighting, psychic",pure-power,60,100,85,80,85,100,315,1.3
+manectric-mega,electric,intimidate,70,75,80,135,80,135,440,1.8
+banette-mega,ghost,prankster,64,165,75,93,83,75,130,1.2
+absol-mega,dark,magic-bounce,65,150,60,115,60,115,490,1.2
+garchomp-mega,"dragon, ground",sand-force,108,170,115,120,95,92,950,1.9
+lucario-mega,"fighting, steel",adaptability,70,145,88,140,70,112,575,1.3
+abomasnow-mega,"grass, ice",snow-warning,90,132,105,132,105,30,1850,2.7
+floette-eternal,fairy,"flower-veil, symbiosis",74,65,67,125,128,92,9,0.2
+latias-mega,"dragon, psychic",levitate,80,100,120,140,150,110,520,1.8
+latios-mega,"dragon, psychic",levitate,80,130,100,160,120,110,700,2.3
+swampert-mega,"water, ground",swift-swim,100,150,110,95,110,70,1020,1.9
+sceptile-mega,"grass, dragon",lightning-rod,70,110,75,145,85,145,552,1.9
+sableye-mega,"dark, ghost",magic-bounce,50,85,125,85,115,20,1610,0.5
+altaria-mega,"dragon, fairy",pixilate,75,110,110,110,105,80,206,1.5
+gallade-mega,"psychic, fighting",inner-focus,68,165,95,65,115,110,564,1.6
+audino-mega,"normal, fairy",healer,103,60,126,80,126,50,320,1.5
+sharpedo-mega,"water, dark",strong-jaw,70,140,70,110,65,105,1303,2.5
+slowbro-mega,"water, psychic",shell-armor,95,75,180,130,80,30,1200,2.0
+steelix-mega,"steel, ground",sand-force,75,125,230,55,95,30,7400,10.5
+pidgeot-mega,"normal, flying",no-guard,83,80,80,135,80,121,505,2.2
+glalie-mega,ice,refrigerate,80,120,80,120,80,100,3502,2.1
+diancie-mega,"rock, fairy",magic-bounce,50,160,110,160,110,110,278,1.1
+metagross-mega,"steel, psychic",tough-claws,80,145,150,105,110,110,9429,2.5
+kyogre-primal,water,primordial-sea,100,150,90,180,160,90,4300,9.8
+groudon-primal,"ground, fire",desolate-land,100,180,160,150,90,90,9997,5.0
+rayquaza-mega,"dragon, flying",delta-stream,105,180,100,180,100,115,3920,10.8
+pikachu-rock-star,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-belle,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-pop-star,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-phd,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-libre,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-cosplay,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+hoopa-unbound,"psychic, dark",magician,80,160,60,170,130,80,4900,6.5
+camerupt-mega,"fire, ground",sheer-force,70,120,100,145,105,20,3205,2.5
+lopunny-mega,"normal, fighting",scrappy,65,136,94,54,96,135,283,1.3
+salamence-mega,"dragon, flying",aerilate,95,145,130,120,90,120,1126,1.8
+beedrill-mega,"bug, poison",adaptability,65,150,40,15,80,145,405,1.4
+rattata-alola,"dark, normal","gluttony, hustle, thick-fat",30,56,35,25,35,72,38,0.3
+raticate-alola,"dark, normal","gluttony, hustle, thick-fat",75,71,70,40,80,77,255,0.7
+raticate-totem-alola,"dark, normal","gluttony, hustle, thick-fat",75,71,70,40,80,77,1050,1.4
+pikachu-original-cap,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-hoenn-cap,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-sinnoh-cap,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-unova-cap,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-kalos-cap,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+pikachu-alola-cap,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+raichu-alola,"electric, psychic",surge-surfer,60,85,50,95,85,110,210,0.7
+sandshrew-alola,"ice, steel","snow-cloak, slush-rush",50,75,90,10,35,40,400,0.7
+sandslash-alola,"ice, steel","snow-cloak, slush-rush",75,100,120,25,65,65,550,1.2
+vulpix-alola,ice,"snow-cloak, snow-warning",38,41,40,50,65,65,99,0.6
+ninetales-alola,"ice, fairy","snow-cloak, snow-warning",73,67,75,81,100,109,199,1.1
+diglett-alola,"ground, steel","sand-veil, tangling-hair, sand-force",10,55,30,35,45,90,10,0.2
+dugtrio-alola,"ground, steel","sand-veil, tangling-hair, sand-force",35,100,60,50,70,110,666,0.7
+meowth-alola,dark,"pickup, technician, rattled",40,35,35,50,40,90,42,0.4
+persian-alola,dark,"fur-coat, technician, rattled",65,60,60,75,65,115,330,1.1
+geodude-alola,"rock, electric","magnet-pull, sturdy, galvanize",40,80,100,30,30,20,203,0.4
+graveler-alola,"rock, electric","magnet-pull, sturdy, galvanize",55,95,115,45,45,35,1100,1.0
+golem-alola,"rock, electric","magnet-pull, sturdy, galvanize",80,120,130,55,65,45,3160,1.7
+grimer-alola,"poison, dark","poison-touch, gluttony, power-of-alchemy",80,80,50,40,50,25,420,0.7
+muk-alola,"poison, dark","poison-touch, gluttony, power-of-alchemy",105,105,75,65,100,50,520,1.0
+exeggutor-alola,"grass, dragon","frisk, harvest",95,105,85,125,75,45,4156,10.9
+marowak-alola,"fire, ghost","cursed-body, lightning-rod, rock-head",60,80,110,50,80,45,340,1.0
+greninja-battle-bond,"water, dark",battle-bond,72,95,67,103,71,122,400,1.5
+greninja-ash,"water, dark",battle-bond,72,145,67,153,71,132,400,1.5
+zygarde-complete,"dragon, ground",power-construct,216,100,121,91,95,85,6100,4.5
+gumshoos-totem,normal,"stakeout, strong-jaw, adaptability",88,110,60,55,60,45,600,1.4
+vikavolt-totem,"bug, electric",levitate,77,70,90,145,75,43,1475,2.6
+oricorio-pom-pom,"electric, flying",dancer,75,70,70,98,70,93,34,0.6
+oricorio-pau,"psychic, flying",dancer,75,70,70,98,70,93,34,0.6
+oricorio-sensu,"ghost, flying",dancer,75,70,70,98,70,93,34,0.6
+lycanroc-midnight,rock,"keen-eye, vital-spirit, no-guard",85,115,75,55,75,82,250,1.1
+wishiwashi-school,water,schooling,45,140,130,140,135,30,786,8.2
+lurantis-totem,grass,"leaf-guard, contrary",70,105,90,80,90,45,580,1.5
+salazzle-totem,"poison, fire","corrosion, oblivious",68,64,60,111,60,117,810,2.1
+minior-orange-meteor,"rock, flying",shields-down,60,60,100,60,100,60,400,0.3
+minior-yellow-meteor,"rock, flying",shields-down,60,60,100,60,100,60,400,0.3
+minior-green-meteor,"rock, flying",shields-down,60,60,100,60,100,60,400,0.3
+minior-blue-meteor,"rock, flying",shields-down,60,60,100,60,100,60,400,0.3
+minior-indigo-meteor,"rock, flying",shields-down,60,60,100,60,100,60,400,0.3
+minior-violet-meteor,"rock, flying",shields-down,60,60,100,60,100,60,400,0.3
+minior-red,"rock, flying",shields-down,60,100,60,100,60,120,3,0.3
+minior-orange,"rock, flying",shields-down,60,100,60,100,60,120,3,0.3
+minior-yellow,"rock, flying",shields-down,60,100,60,100,60,120,3,0.3
+minior-green,"rock, flying",shields-down,60,100,60,100,60,120,3,0.3
+minior-blue,"rock, flying",shields-down,60,100,60,100,60,120,3,0.3
+minior-indigo,"rock, flying",shields-down,60,100,60,100,60,120,3,0.3
+minior-violet,"rock, flying",shields-down,60,100,60,100,60,120,3,0.3
+mimikyu-busted,"ghost, fairy",disguise,55,90,80,50,105,96,7,0.2
+mimikyu-totem-disguised,"ghost, fairy",disguise,55,90,80,50,105,96,28,0.4
+mimikyu-totem-busted,"ghost, fairy",disguise,55,90,80,50,105,96,28,0.4
+kommo-o-totem,"dragon, fighting","bulletproof, soundproof, overcoat",75,110,125,100,105,85,2075,2.4
+magearna-original,"steel, fairy",soul-heart,80,95,115,130,115,65,805,1.0
+pikachu-partner-cap,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+marowak-totem,"fire, ghost","cursed-body, lightning-rod, rock-head",60,80,110,50,80,45,980,1.7
+ribombee-totem,"bug, fairy","honey-gather, shield-dust, sweet-veil",60,55,60,95,70,124,20,0.4
+rockruff-own-tempo,rock,own-tempo,45,65,40,30,40,60,92,0.5
+lycanroc-dusk,rock,tough-claws,75,117,65,55,65,110,250,0.8
+araquanid-totem,"water, bug","water-bubble, water-absorb",68,70,92,50,132,42,2175,3.1
+togedemaru-totem,"electric, steel","iron-barbs, lightning-rod, sturdy",65,98,63,40,73,96,130,0.6
+necrozma-dusk,"psychic, steel",prism-armor,97,157,127,113,109,77,4600,3.8
+necrozma-dawn,"psychic, ghost",prism-armor,97,113,109,157,127,77,3500,4.2
+necrozma-ultra,"psychic, dragon",neuroforce,97,167,97,167,97,129,2300,7.5
+pikachu-starter,electric,"static, lightning-rod",45,80,50,75,60,120,60,0.4
+eevee-starter,normal,"run-away, adaptability, anticipation",65,75,70,65,85,75,65,0.3
+pikachu-world-cap,electric,"static, lightning-rod",35,55,40,50,50,90,60,0.4
+meowth-galar,steel,"pickup, tough-claws, unnerve",50,65,55,40,40,40,75,0.4
+ponyta-galar,psychic,"run-away, pastel-veil, anticipation",50,85,55,65,65,90,240,0.8
+rapidash-galar,"psychic, fairy","run-away, pastel-veil, anticipation",65,100,70,80,80,105,800,1.7
+slowpoke-galar,psychic,"gluttony, own-tempo, regenerator",90,65,65,40,40,15,360,1.2
+slowbro-galar,"poison, psychic","quick-draw, own-tempo, regenerator",95,100,95,100,70,30,705,1.6
+farfetchd-galar,fighting,"steadfast, scrappy",52,95,55,58,62,55,420,0.8
+weezing-galar,"poison, fairy","levitate, neutralizing-gas, misty-surge",65,90,120,85,70,60,160,3.0
+mr-mime-galar,"ice, psychic","vital-spirit, screen-cleaner, ice-body",50,65,65,90,90,100,568,1.4
+articuno-galar,"psychic, flying",competitive,90,85,85,125,100,95,509,1.7
+zapdos-galar,"fighting, flying",defiant,90,125,90,85,90,100,582,1.6
+moltres-galar,"dark, flying",berserk,90,85,90,100,125,90,660,2.0
+slowking-galar,"poison, psychic","curious-medicine, own-tempo, regenerator",95,65,80,110,110,30,795,1.8
+corsola-galar,ghost,"weak-armor, cursed-body",60,55,100,65,100,30,5,0.6
+zigzagoon-galar,"dark, normal","pickup, gluttony, quick-feet",38,30,41,30,41,60,175,0.4
+linoone-galar,"dark, normal","pickup, gluttony, quick-feet",78,70,61,50,61,100,325,0.5
+darumaka-galar,ice,"hustle, inner-focus",70,90,45,15,45,50,400,0.7
+darmanitan-galar-standard,ice,"gorilla-tactics, zen-mode",105,140,55,30,55,95,1200,1.7
+darmanitan-galar-zen,"ice, fire","gorilla-tactics, zen-mode",105,160,55,30,55,135,1200,1.7
+yamask-galar,"ground, ghost",wandering-spirit,38,55,85,30,65,30,15,0.5
+stunfisk-galar,"ground, steel",mimicry,109,81,99,66,84,32,205,0.7
+cramorant-gulping,"flying, water",gulp-missile,70,85,55,85,95,85,180,0.8
+cramorant-gorging,"flying, water",gulp-missile,70,85,55,85,95,85,180,0.8
+toxtricity-low-key,"electric, poison","punk-rock, minus, technician",75,98,70,114,70,75,400,1.6
+eiscue-noice,ice,ice-face,75,80,70,65,50,130,890,1.4
+indeedee-female,"psychic, normal","own-tempo, synchronize, psychic-surge",70,55,65,95,105,85,280,0.9
+morpeko-hangry,"electric, dark",hunger-switch,58,95,58,70,58,97,30,0.3
+zacian-crowned,"fairy, steel",intrepid-sword,92,150,115,80,115,148,3550,2.8
+zamazenta-crowned,"fighting, steel",dauntless-shield,92,120,140,80,140,128,7850,2.9
+eternatus-eternamax,"poison, dragon",pressure,255,115,250,125,250,130,0,100.0
+urshifu-rapid-strike,"fighting, water",unseen-fist,100,130,100,63,60,97,1050,1.9
+zarude-dada,"dark, grass",leaf-guard,105,120,105,70,95,105,700,1.8
+calyrex-ice,"psychic, ice",as-one-glastrier,100,165,150,85,130,50,8091,2.4
+calyrex-shadow,"psychic, ghost",as-one-spectrier,100,85,80,165,100,150,536,2.4
+venusaur-gmax,"grass, poison","overgrow, chlorophyll",80,82,83,100,100,80,10000,24.0
+charizard-gmax,"fire, flying","blaze, solar-power",78,84,78,109,85,100,10000,28.0
+blastoise-gmax,water,"torrent, rain-dish",79,83,100,85,105,78,10000,25.0
+butterfree-gmax,"bug, flying","compound-eyes, tinted-lens",60,45,50,90,80,70,10000,17.0
+pikachu-gmax,electric,"static, lightning-rod",35,55,40,50,50,90,10000,21.0
+meowth-gmax,normal,"pickup, technician, unnerve",40,45,35,40,40,90,10000,33.0
+machamp-gmax,fighting,"guts, no-guard, steadfast",90,130,80,65,85,55,10000,25.0
+gengar-gmax,"ghost, poison",cursed-body,60,65,60,130,75,110,10000,20.0
+kingler-gmax,water,"hyper-cutter, shell-armor, sheer-force",55,130,115,50,50,75,10000,19.0
+lapras-gmax,"water, ice","water-absorb, shell-armor, hydration",130,85,80,85,95,60,10000,24.0
+eevee-gmax,normal,"run-away, adaptability, anticipation",55,55,50,45,65,55,10000,18.0
+snorlax-gmax,normal,"immunity, thick-fat, gluttony",160,110,65,65,110,30,10000,35.0
+garbodor-gmax,poison,"stench, weak-armor, aftermath",80,95,82,60,82,75,10000,21.0
+melmetal-gmax,steel,iron-fist,135,143,143,80,65,34,10000,25.0
+rillaboom-gmax,grass,"overgrow, grassy-surge",100,125,90,60,70,85,10000,28.0
+cinderace-gmax,fire,"blaze, libero",80,116,75,65,75,119,10000,27.0
+inteleon-gmax,water,"torrent, sniper",70,85,65,125,65,120,10000,40.0
+corviknight-gmax,"flying, steel","pressure, unnerve, mirror-armor",98,87,105,53,85,67,10000,14.0
+orbeetle-gmax,"bug, psychic","swarm, frisk, telepathy",60,45,110,80,120,90,10000,14.0
+drednaw-gmax,"water, rock","strong-jaw, shell-armor, swift-swim",90,115,90,48,68,74,10000,24.0
+coalossal-gmax,"rock, fire","steam-engine, flame-body, flash-fire",110,80,120,80,90,30,10000,42.0
+flapple-gmax,"grass, dragon","ripen, gluttony, hustle",70,110,80,95,60,70,10000,24.0
+appletun-gmax,"grass, dragon","ripen, gluttony, thick-fat",110,85,80,100,80,30,10000,24.0
+sandaconda-gmax,ground,"sand-spit, shed-skin, sand-veil",72,107,125,65,70,71,10000,22.0
+toxtricity-amped-gmax,"electric, poison","punk-rock, plus, technician",75,98,70,114,70,75,10000,24.0
+centiskorch-gmax,"fire, bug","flash-fire, white-smoke, flame-body",100,115,65,90,90,65,10000,75.0
+hatterene-gmax,"psychic, fairy","healer, anticipation, magic-bounce",57,90,95,136,103,29,10000,26.0
+grimmsnarl-gmax,"dark, fairy","prankster, frisk, pickpocket",95,120,65,95,75,60,10000,32.0
+alcremie-gmax,fairy,"sweet-veil, aroma-veil",65,60,75,110,121,64,10000,30.0
+copperajah-gmax,steel,"sheer-force, heavy-metal",122,130,69,80,69,30,10000,23.0
+duraludon-gmax,"steel, dragon","light-metal, heavy-metal, stalwart",70,95,115,120,50,85,10000,43.0
+urshifu-single-strike-gmax,"fighting, dark",unseen-fist,100,130,100,63,60,97,10000,29.0
+urshifu-rapid-strike-gmax,"fighting, water",unseen-fist,100,130,100,63,60,97,10000,26.0
+toxtricity-low-key-gmax,"electric, poison","punk-rock, minus, technician",75,98,70,114,70,75,10000,24.0
+growlithe-hisui,"fire, rock","intimidate, flash-fire, rock-head",60,75,45,65,50,55,227,0.8
+arcanine-hisui,"fire, rock","intimidate, flash-fire, rock-head",95,115,80,95,80,90,1680,2.0
+voltorb-hisui,"electric, grass","soundproof, static, aftermath",40,30,50,55,55,100,130,0.5
+electrode-hisui,"electric, grass","soundproof, static, aftermath",60,50,70,80,80,150,710,1.2
+typhlosion-hisui,"fire, ghost","blaze, frisk",73,84,78,119,85,95,698,1.6
+qwilfish-hisui,"dark, poison","poison-point, swift-swim, intimidate",65,95,85,55,55,85,39,0.5
+sneasel-hisui,"fighting, poison","inner-focus, keen-eye, pickpocket",55,95,55,35,75,115,270,0.9
+samurott-hisui,"water, dark","torrent, sharpness",90,108,80,100,65,85,582,1.5
+lilligant-hisui,"grass, fighting","chlorophyll, hustle, leaf-guard",70,105,75,50,75,105,192,1.2
+zorua-hisui,"normal, ghost",illusion,35,60,40,85,40,70,125,0.7
+zoroark-hisui,"normal, ghost",illusion,55,100,60,125,60,110,730,1.6
+braviary-hisui,"psychic, flying","keen-eye, sheer-force, tinted-lens",110,83,70,112,70,65,434,1.7
+sliggoo-hisui,"steel, dragon","sap-sipper, shell-armor, gooey",58,75,83,83,113,40,685,0.7
+goodra-hisui,"steel, dragon","sap-sipper, shell-armor, gooey",80,100,100,110,150,60,3341,1.7
+avalugg-hisui,"ice, rock","strong-jaw, ice-body, sturdy",95,127,184,34,36,38,2624,1.4
+decidueye-hisui,"grass, fighting","overgrow, scrappy",88,112,80,95,95,60,370,1.6
+dialga-origin,"steel, dragon","pressure, telepathy",100,100,120,150,120,90,8487,7.0
+palkia-origin,"water, dragon","pressure, telepathy",90,100,100,150,120,120,6590,6.3
+basculin-white-striped,water,"rattled, adaptability, mold-breaker",70,92,65,80,55,98,180,1.0
+basculegion-female,"water, ghost","swift-swim, adaptability, mold-breaker",120,92,65,100,75,78,1100,3.0
+enamorus-therian,"fairy, flying",overcoat,74,115,110,135,100,46,480,1.6
+tauros-paldea-combat-breed,fighting,"intimidate, anger-point, cud-chew",75,110,105,30,70,100,1150,1.4
+tauros-paldea-blaze-breed,"fighting, fire","intimidate, anger-point, cud-chew",75,110,105,30,70,100,850,1.4
+tauros-paldea-aqua-breed,"fighting, water","intimidate, anger-point, cud-chew",75,110,105,30,70,100,1100,1.4
+wooper-paldea,"poison, ground","poison-point, water-absorb, unaware",55,45,45,25,25,15,110,0.4
+oinkologne-female,normal,"aroma-veil, gluttony, thick-fat",115,90,70,59,90,65,1200,1.0
+dudunsparce-three-segment,normal,"serene-grace, run-away, rattled",125,100,80,85,75,55,474,4.5
+palafin-hero,water,"zero-to-hero, zero-to-hero",100,160,97,106,87,100,974,1.8
+maushold-family-of-three,normal,"friend-guard, cheek-pouch, technician",74,75,70,65,75,111,28,0.3
+tatsugiri-droopy,"dragon, water","commander, storm-drain",68,50,60,120,95,82,80,0.3
+tatsugiri-stretchy,"dragon, water","commander, storm-drain",68,50,60,120,95,82,80,0.3
+squawkabilly-blue-plumage,"normal, flying","intimidate, hustle, guts",82,96,51,45,51,92,24,0.6
+squawkabilly-yellow-plumage,"normal, flying","intimidate, hustle, sheer-force",82,96,51,45,51,92,24,0.6
+squawkabilly-white-plumage,"normal, flying","intimidate, hustle, sheer-force",82,96,51,45,51,92,24,0.6
+gimmighoul-roaming,ghost,"run-away, run-away",45,30,25,75,45,80,10,0.1
+koraidon-limited-build,"fighting, dragon","orichalcum-pulse, orichalcum-pulse",100,135,115,85,100,135,3030,3.5
+koraidon-sprinting-build,"fighting, dragon","orichalcum-pulse, orichalcum-pulse",100,135,115,85,100,135,3030,3.5
+koraidon-swimming-build,"fighting, dragon","orichalcum-pulse, orichalcum-pulse",100,135,115,85,100,135,3030,3.5
+koraidon-gliding-build,"fighting, dragon","orichalcum-pulse, orichalcum-pulse",100,135,115,85,100,135,3030,3.5
+miraidon-low-power-mode,"electric, dragon","hadron-engine, hadron-engine",100,85,100,135,115,135,2400,2.8
+miraidon-drive-mode,"electric, dragon","hadron-engine, hadron-engine",100,85,100,135,115,135,2400,2.8
+miraidon-aquatic-mode,"electric, dragon","hadron-engine, hadron-engine",100,85,100,135,115,135,2400,2.8
+miraidon-glide-mode,"electric, dragon","hadron-engine, hadron-engine",100,85,100,135,115,135,2400,2.8
+ursaluna-bloodmoon,"ground, normal",minds-eye,113,70,120,135,65,52,2900,2.4
+ogerpon-wellspring-mask,"grass, water",water-absorb,80,120,84,60,96,110,398,1.2
+ogerpon-hearthflame-mask,"grass, fire",mold-breaker,80,120,84,60,96,110,398,1.2
+ogerpon-cornerstone-mask,"grass, rock",sturdy,80,120,84,60,96,110,398,1.2
+terapagos-terastal,normal,tera-shell,95,95,110,105,110,85,160,0.3
+terapagos-stellar,normal,teraform-zero,160,105,110,130,110,85,770,1.7
